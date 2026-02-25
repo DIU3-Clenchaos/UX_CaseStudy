@@ -35,7 +35,7 @@ Descripción:
 
 Logotipo: 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/280fffa2-7e5d-4df1-b992-b0a45b820774" />
+![logoDIU (1)](https://github.com/user-attachments/assets/7b4a9fe0-a39f-451e-9eed-0b81f3c85d8c)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Yeray Rodríguez Navas https://github.com/YeerayRN    :octocat:     
