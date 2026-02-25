@@ -23,7 +23,7 @@ Actualizado: 14/01/2026
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU3.Clenchaos.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
@@ -35,13 +35,11 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/280fffa2-7e5d-4df1-b992-b0a45b820774" />
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Yeray Rodríguez Navas https://github.com/YeerayRN    :octocat:     
+ * :bust_in_silhouette:  José Rodríguez Fernández https://github.com/Neocofias1258     :octocat:
 
 ----- 
 
