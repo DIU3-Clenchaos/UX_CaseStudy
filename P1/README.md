@@ -1,4 +1,5 @@
-# Descripción
+# User Research Plan
+## Descripción
 
 ---
 
@@ -10,7 +11,7 @@ Este User Research Plan describe el enfoque metodológico que se seguirá para i
 
 Acerca de este ámbito, sabemos que inicialmente el mundo de las hamburguesas era algo simple; sin embargo, en los últimos años ha evolucionado significativamente. Se ha buscado refinar el producto mediante nuevas combinaciones de sabores (como la mezcla de salado y dulce), variaciones en el tipo de pan (tanto en ingredientes como en colores) y otras propuestas innovadoras, todo con el objetivo de atraer a un mayor número de clientes y diferenciarse en un mercado cada vez más competitivo.
 
-# Objetivos de la Investigación (The "Why")
+## Objetivos de la Investigación (The "Why")
 
 ---
 
@@ -19,7 +20,7 @@ Acerca de este ámbito, sabemos que inicialmente el mundo de las hamburguesas er
 - Examinar la eficiencia del proceso de pedido y compra online y si existen grandes impedimentos que generen mala User Experience.
 - Identificar limitaciones tecnológicas o de negocio.
 
-# **Experiencia del equipo**
+## **Experiencia del equipo**
 
 ---
 
@@ -35,7 +36,7 @@ Como stakeholder: El equipo no cuenta con experiencia como stakeholder al no ser
 Como observador/oir a la gente: El equipo posee un nivel avanzado de observacion y testing, habilidades fundamentales para el desarrollo de investigacion de experiencia de usuario. De esta manera es mucho mas sencilla descubrir dificultades de interaccion y de cumplimiento de objetivos básicos.
 > 
 
-# Metodología (The "How")
+## Metodología (The "How")
 
 ---
 
@@ -45,7 +46,7 @@ Para realizar el análisis de competidores, vamos a utilizar varios tipos de med
 - **Biométrica:** Identificar aquellos lugares de la página web, de manera que a través de la disposicion de la misma, hace que el usuario diriga su atención.
 - **Comparativa (conductal):** Realizaremos un A/B Testing con un equipo compañero para comparar el diseño de nuestras páginas web. También haremos un análisis de competidores.
 
-# Perfil de los Participantes (The "Who")
+## Perfil de los Participantes (The "Who")
 
 ---
 
@@ -57,7 +58,7 @@ Para la obtencion de opiniones de usuario, vamos a contar con personas con estas
     - **Hábitos de consumo:** se buscarán usuarios consumidores ocasionales de comida rápida, ya que si no lo son, los resultados de la evaluación podrían ser afectados debido al desinterés.
 - **Segmentación:** Usuarios de clase.
 
-# Guion y Tareas (The "What")
+## Guion y Tareas (The "What")
 
 ---
 
@@ -68,7 +69,7 @@ Requeriremos que los usuarios hagan distintas tareas:
 - Ubicar el local de la empresa.
 - Encontrar la carta de la tienda y la disponibilidad.
 
-# Cronograma y Entregables
+## Cronograma y Entregables
 
 ---
 
@@ -77,6 +78,15 @@ Requeriremos que los usuarios hagan distintas tareas:
 - Fichas de personas.
 - User Journey Map
 - Usability Review
+
+
+
+
+
+
+
+
+
 
 
 # Conclusión P1
