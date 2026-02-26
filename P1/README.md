@@ -1,90 +1,79 @@
-## DIU - Practica1, entregables
+# Descripción
 
+---
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+El presente proyecto se centra en el análisis y mejora de la experiencia de usuario de una página web perteneciente al sector de las hamburguesas gourmet, un mercado que ha experimentado un notable crecimiento en el último año, especialmente en el entorno digital.
 
+El objetivo principal es evaluar la usabilidad, el diseño y la navegabilidad de una de las páginas web propuestas por el profesorado, con el fin de detectar problemas que puedan afectar a la experiencia del usuario y proponer mejoras basadas en principios de usabilidad y diseño centrado en el usuario.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+Este User Research Plan describe el enfoque metodológico que se seguirá para identificar oportunidades de mejora y garantizar que la página web resulte atractiva, funcional y eficiente para sus usuarios.
 
+Acerca de este ámbito, sabemos que inicialmente el mundo de las hamburguesas era algo simple; sin embargo, en los últimos años ha evolucionado significativamente. Se ha buscado refinar el producto mediante nuevas combinaciones de sabores (como la mezcla de salado y dulce), variaciones en el tipo de pan (tanto en ingredientes como en colores) y otras propuestas innovadoras, todo con el objetivo de atraer a un mayor número de clientes y diferenciarse en un mercado cada vez más competitivo.
 
+# Objetivos de la Investigación (The "Why")
 
+---
 
-## User Research Plan (template)
+- Analizar si el cumplimiento de tareas simples (como por ejemplo, obtener información de productos ofrecidos) es intuitivo y rápido.
+- Evaluar el diseño y claridad de la página web, disposición de información y funcionalidades ofrecidas.
+- Examinar la eficiencia del proceso de pedido y compra online y si existen grandes impedimentos que generen mala User Experience.
+- Identificar limitaciones tecnológicas o de negocio.
 
-Diseño de Interfaces de Usuario, entregable práctica 1. 
+# **Experiencia del equipo**
 
-Documento plantilla, adaptar al contenido que sea necesario. 
+---
 
-<img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/user-research-1599142817996/a-1696512677044-2x.jpg" alt="UX Reaearch plan" style="height:250px" />
+> 
+> 
+> 
+> Como diseñador: El equipo no cuenta con experiencia profesional en el mundo del diseño e incluso tampoco hemos realizado ninguna página web, de manera que los análisis se realizaran completamente desde el punto de vista de usuario.
+> 
 
-## 1 Descripción 
+> Como stakeholder: El equipo no cuenta con experiencia como stakeholder al no ser propietarios de ninguna empresa ni responsables de ningun negocio. Se tratará de realizar un análisis en base al equilibrio entre objetivos de negocio y experiencia de usuario.
+> 
 
+> Como observador/oir a la gente: El equipo posee un nivel avanzado de observacion y testing, habilidades fundamentales para el desarrollo de investigacion de experiencia de usuario. De esta manera es mucho mas sencilla descubrir dificultades de interaccion y de cumplimiento de objetivos básicos.
+> 
 
+# Metodología (The "How")
 
-Un **UX Research Plan** (Plan de Investigación de Usuario) es el documento estratégico que define los cimientos de cualquier estudio de usabilidad. Es la "hoja de ruta" que explica **qué** quieres aprender, **a quién** se lo vas a preguntar, **cómo** vas a obtener los datos y **cuándo** estarán listos los resultados.
+---
 
-Para que sea profesional, tu plan debe responder a estas secciones:
-#### 1. Antecedentes y Objetivos (The "Why")
+Para realizar el análisis de competidores, vamos a utilizar varios tipos de medida, en los que podemos difereniciar:
 
-- **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
+- **Cuantitativa (actitudinal):** El cuestionario **SUS** para obtener una nota numérica.
+- **Biométrica:** Identificar aquellos lugares de la página web, de manera que a través de la disposicion de la misma, hace que el usuario diriga su atención.
+- **Comparativa (conductal):** Realizaremos un A/B Testing con un equipo compañero para comparar el diseño de nuestras páginas web. También haremos un análisis de competidores.
 
+# Perfil de los Participantes (The "Who")
 
+---
 
-- **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
+Para la obtencion de opiniones de usuario, vamos a contar con personas con estas características:
 
-- **Experiencia del equipo / justificación**
+- **Criterios de inclusión:**
+    - **Edad:** en un rango de 40 a 50 años.
+    - **Competitividad Digital:** mixta, se tomarán medidas de usuarios con mas destreza en la tecnología y otros menos habituados a ella.
+    - **Hábitos de consumo:** se buscarán usuarios consumidores ocasionales de comida rápida, ya que si no lo son, los resultados de la evaluación podrían ser afectados debido al desinterés.
+- **Segmentación:** Usuarios de clase.
 
-> tipología:
->
-> > como diseñador (he creado productos similares... )
+# Guion y Tareas (The "What")
 
->> como stakeholder (he tenido experiencia al ser parte de .... )
+---
 
->> como observador/oir a la gente (observo que....)
+Requeriremos que los usuarios hagan distintas tareas:
 
+- Realizar un pedido de hamburguesas rápidamente.
+- Contactar con la empresa.
+- Ubicar el local de la empresa.
+- Encontrar la carta de la tienda y la disponibilidad.
 
+# Cronograma y Entregables
 
-#### 2. Metodología (The "How")
+---
 
-**Cuantitativa:** Cuestionario SUS para obtener una nota numérica.
-
-**Comparativa:** Realizaremos un A/B Testing con un equipo compañero para comparar el diseño de nuestras páginas web. También haremos un análisis de competidores.
-
-
-#### 3. Perfil de los Participantes (The "Who")
-
-Define a quién vas a reclutar.
-
-- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
-  
-- **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
-
-
-
-#### 4. Guion y Tareas (The "What")
-
-¿Qué le vas a pedir al usuario que haga exactamente?
-
-- "Busca el producto X y añádelo al carrito".
-  
-- "Encuentra el horario de apertura de la tienda".
-  
-
-
-
-#### 5. Cronograma y Entregables
-
-> Simplemente enumerar los entrañables que se suponen se van a desarrollar con el estudio
-
-- p.e.  **Usability Report** final con las recomendaciones de mejora.
-
-
-
-
-
-
-
+- **Usability Report** final con las recomendaciones de mejora.
+- Competitive Analisys.
+- Fichas de personas.
+- User Journey Map
+- Usability Review
