@@ -69,7 +69,9 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+>>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
+>>> 
+https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidores-Clench?node-id=0-1&t=nd1Ixj6uiY6wdTrF-1
 
 
 ### 1.c Personas
