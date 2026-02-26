@@ -50,14 +50,11 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 #### 2. Metodología (The "How")
 
-INdicar las herramientas a utilizar, p.e. 
+**Metodología (The “How”)**
 
-- **Cuantitativa:** El cuestionario **SUS** para obtener una nota numérica.
-- **Biométrica:** **Eye Tracking** para ver el comportamiento visual real.
-- **Comparativa:** El **A/B Testing** para medir tu diseño contra el de tu compañero.
+**Cuantitativa:** Cuestionario SUS para obtener una nota numérica.
 
-Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
-
+**Comparativa:** Realizaremos un A/B Testing con un equipo compañero para comparar el diseño de nuestras páginas web. También haremos un análisis de competidores.
 
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
