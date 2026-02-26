@@ -78,7 +78,17 @@ Requeriremos que los usuarios hagan distintas tareas:
 - Fichas de personas.
 - User Journey Map
 - Usability Review
+---
 
+# Competitive Analisys
+El profesorado de la asignatura nos ha ofertado a elegir entre dos negocios: "The Champions Burguer" y "Goiko". Nosotros hemos decidido optar por "The Champions Burguer" ya que consideramos que tiene la idea mas original de negocio y a su vez, es la que más aspectos mejorables tiene, pudiendo proponer soluciones a estos problemas con un mejor diseño y funcionalidades.
+
+Hemos decidido enfrentarla con dos fuertes competidores del mismo sector:
+
+- The Good Burger: una franquicia gourmet de hamburguesas presente en todo españa.
+- Mumama Burger Bar: una de las hamburgueserías mas famosas en todo granada, competidora y ganadora de varios premios a la mejor hamburguesa de España.
+
+También podemos realizar una comparación entre los tres negocios en base a precio y calidad de producto. También realizaremos una comparacion de sus sitios web.
 
 
 
