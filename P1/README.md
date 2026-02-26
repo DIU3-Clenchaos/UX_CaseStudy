@@ -50,16 +50,10 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 
 #### 2. Metodología (The "How")
 
-**Metodología (The “How”)**
-
 **Cuantitativa:** Cuestionario SUS para obtener una nota numérica.
 
 **Comparativa:** Realizaremos un A/B Testing con un equipo compañero para comparar el diseño de nuestras páginas web. También haremos un análisis de competidores.
 
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
-
-ref: https://www.nngroup.com/articles/which-ux-research-methods/
 
 #### 3. Perfil de los Participantes (The "Who")
 
