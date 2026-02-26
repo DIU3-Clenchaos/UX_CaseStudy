@@ -77,3 +77,8 @@ Requeriremos que los usuarios hagan distintas tareas:
 - Fichas de personas.
 - User Journey Map
 - Usability Review
+
+
+# Conclusión P1
+---
+(Poner la conclusión)
