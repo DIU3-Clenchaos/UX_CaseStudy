@@ -26,13 +26,13 @@ Acerca de este ámbito, sabemos que inicialmente el mundo de las hamburguesas er
 > 
 > 
 > 
-> Como diseñador: El equipo no cuenta con experiencia profesional en el mundo del diseño e incluso tampoco hemos realizado ninguna página web, de manera que los análisis se realizaran completamente desde el punto de vista de usuario.
+Como diseñador: El equipo no cuenta con experiencia profesional en el mundo del diseño e incluso tampoco hemos realizado ninguna página web, de manera que los análisis se realizaran completamente desde el punto de vista de usuario.
 > 
 
-> Como stakeholder: El equipo no cuenta con experiencia como stakeholder al no ser propietarios de ninguna empresa ni responsables de ningun negocio. Se tratará de realizar un análisis en base al equilibrio entre objetivos de negocio y experiencia de usuario.
+Como stakeholder: El equipo no cuenta con experiencia como stakeholder al no ser propietarios de ninguna empresa ni responsables de ningun negocio. Se tratará de realizar un análisis en base al equilibrio entre objetivos de negocio y experiencia de usuario.
 > 
 
-> Como observador/oir a la gente: El equipo posee un nivel avanzado de observacion y testing, habilidades fundamentales para el desarrollo de investigacion de experiencia de usuario. De esta manera es mucho mas sencilla descubrir dificultades de interaccion y de cumplimiento de objetivos básicos.
+Como observador/oir a la gente: El equipo posee un nivel avanzado de observacion y testing, habilidades fundamentales para el desarrollo de investigacion de experiencia de usuario. De esta manera es mucho mas sencilla descubrir dificultades de interaccion y de cumplimiento de objetivos básicos.
 > 
 
 # Metodología (The "How")
