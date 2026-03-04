@@ -90,7 +90,8 @@ Hemos decidido enfrentarla con dos fuertes competidores del mismo sector:
 
 También podemos realizar una comparación entre los tres negocios en base a precio y calidad de producto. También realizaremos una comparacion de sus sitios web.
 
-
+Hemos realizado la comparación a traves de esta plantilla en Figma:
+- https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidores?node-id=0-1&t=5RbboXu4kQF4WTEH-0
 
 
 
