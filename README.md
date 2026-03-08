@@ -64,9 +64,9 @@ Si se quiere obetener más informacion, se encuentra [aquí](P1/README.md)
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Gracias a la plantilla del profesorado encontrada en Figma, hemos podido realizar una comparacion de nuestra web con los competidores, haciendo asi más visible y fácil comprender los puntos fuertes y débiles de la web de "The Champions Burger", poniéndola en contraste con otras facilitando obtener una critica constructiva informándonos mas del sector y poniéndonos mas en contexto.
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas.
->>> 
+Para poder ver el Análisis Competitivo, aquí se encuentra el link: 
 https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidores-Clench?node-id=0-1&t=nd1Ixj6uiY6wdTrF-1
 
 
@@ -74,7 +74,6 @@ https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidore
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node-id=24-124&t=plsQAEgZi6zAMR4H-0
 
 
