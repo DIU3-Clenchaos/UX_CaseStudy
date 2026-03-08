@@ -74,6 +74,16 @@ https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidore
 ![Método UX](img/Persona.png) 
 -----
 
+La primera persona se trata de Gerónimo Benavides, inversor ubicado en el sector de las criptomonedas con conocimientos medios-altos en tecnología y con un carácter decidido y fuerte.
+<img width="1239" height="868" alt="image" src="https://github.com/user-attachments/assets/e58a6c64-e411-4d12-9c25-33d5471c725b" />
+
+
+
+La segunda persona es Elena Pineda, una profesora de matemáticas con conocimientos medios-bajos en tecnología. Es una mujer calmada, positiva y determinada:
+<img width="1238" height="867" alt="image" src="https://github.com/user-attachments/assets/511b112e-a399-4298-8c4d-d23a421e02f8" />
+
+
+Para ver el documento original:
 https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node-id=24-124&t=plsQAEgZi6zAMR4H-0
 
 
