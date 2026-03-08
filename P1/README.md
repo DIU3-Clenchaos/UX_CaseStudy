@@ -94,6 +94,25 @@ Hemos realizado la comparación a traves de esta plantilla en Figma:
 - https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidores?node-id=0-1&t=5RbboXu4kQF4WTEH-0
 ---
 
+
+
+###[PERSONAS]
+
+<img width="1239" height="868" alt="image" src="https://github.com/user-attachments/assets/e58a6c64-e411-4d12-9c25-33d5471c725b" />
+
+
+<img width="1238" height="867" alt="image" src="https://github.com/user-attachments/assets/511b112e-a399-4298-8c4d-d23a421e02f8" />
+
+
+###[JOURNEY MAP]
+
+<img width="1096" height="870" alt="image" src="https://github.com/user-attachments/assets/c38a894c-9b99-4953-9caa-f58ca3e2fa11" />
+
+
+<img width="1095" height="867" alt="image" src="https://github.com/user-attachments/assets/f892be52-c6ba-4f0e-9585-7ad434d438e2" />
+
+
+
 # Usability review
 Hemos realizado un Usability Review a través de la plantilla ofrecida por el profesorado, donde establecemos un puntaje en funcion de todos los puntos dados, lo cual es de grande utilidad para cualquier persona que busque opiniones en base a ciertos puntos específicos. El documento se encuentra aquí:
 
