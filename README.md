@@ -49,14 +49,16 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Nuestro User Research Plan se centra en el análisis y mejora de la experiencia de usuario de una página web, evaluando asi la usabilidad y su diseño. En este caso evaluamos una de las webs propuestas por el profesorado. Principalmente se explica el enfoque seguido para identificar problemas. También abordamos temas como, ¿Por qué? ¿Cómo? ¿Qué? y nuestra esperiencia en el mundo del UX
+
+Si se quiere obetener más informacion, se encuentra [aquí](P1/README.md)
+
+
 
 
 ### 1.b Competitive Analysis
