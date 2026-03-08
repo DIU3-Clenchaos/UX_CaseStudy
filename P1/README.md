@@ -127,4 +127,9 @@ Hemos realizado un Usability Review a través de la plantilla ofrecida por el pr
 
 # Conclusión P1
 ---
-(Poner la conclusión)
+Desde una perspectiva experta en UX, la web de The Champions Burger ofrece una base sólida en términos de presentación visual, claridad inicial y capacidad para comunicar el propósito del evento. La página de inicio resume bien la información principal, muestra accesos directos a apartados relevantes y mantiene un diseño limpio, con suficiente espacio visual y una estructura comprensible para un público amplio. Además, el tono del contenido resulta cercano, coherente con la audiencia objetivo, y la legibilidad general es correcta. 
+
+Aun así, los principales problemas de usabilidad aparecen cuando el usuario intenta realizar tareas concretas con rapidez. La carencia más grave es la ausencia de buscador, lo que dificulta localizar hamburguesas, foodtrucks o información específica. A esto se suma una navegación poco flexible, sin breadcrumbs ni indicadores claros de sección activa, lo que reduce la orientación del usuario dentro del sitio. También se observa un feedback limitado durante la interacción y una capacidad escasa para retomar el recorrido o volver fácilmente a puntos clave. 
+
+
+En conjunto, se trata de una web atractiva y funcional para explorar, pero todavía insuficiente para apoyar de forma eficiente la búsqueda, comparación y toma de decisiones. Las mejoras deberían centrarse en reforzar navegación, localización de contenidos y apoyo a tareas concretas de usuario.
