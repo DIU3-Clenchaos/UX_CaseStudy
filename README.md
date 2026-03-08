@@ -108,11 +108,20 @@ https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+Enlace al documento:  [Usability-review-Clench.pdf](https://github.com/user-attachments/files/25823822/Usability-review-Clench.pdf) 
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Comentario sobre la revisión: 
+
+Los puntos fuertes en la web "The Champions Burger" son:
+- Diseño
+- Contacto
+- Navegavilidad
+
+Los puntos débiles son:
+- Información ofrecida
+- Búsqueda
+- No tiene breadcrubs ni feedback
+
 
 <br>
 
