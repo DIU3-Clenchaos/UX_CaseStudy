@@ -95,8 +95,9 @@ Hemos realizado la comparación a traves de esta plantilla en Figma:
 ---
 
 # Usability review
+Hemos realizado un Usability Review a través de la plantilla ofrecida por el profesorado, donde establecemos un puntaje en funcion de todos los puntos dados, lo cual es de grande utilidad para cualquier persona que busque opiniones en base a ciertos puntos específicos. El documento se encuentra aquí:
 
-[Usability-review-Clench.pdf](https://github.com/user-attachments/files/25823557/Usability-review-Clench.pdf)
+- [Usability-review-Clench.pdf](https://github.com/user-attachments/files/25823557/Usability-review-Clench.pdf)
 
 
 
