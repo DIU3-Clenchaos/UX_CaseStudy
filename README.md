@@ -91,7 +91,17 @@ https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
+
+Ambas personas experimentan un problema con la gestión de colas en el evento. Ṕor una parte, Gerónimo se enfada bastante y debido a su fuerte carácter decide abandonar el recinto y comer en otro lado. Sin embargo, Elena decide esperar y termina con un buen sabor de boca de la experiencia, pensando por otro lado que deberian poner mas sitio para las personas.
+
+Se ha de recalcar que inicialmente ambos pensaban que se trataba de una página de pedidos a domicilio.
+<img width="1096" height="870" alt="image" src="https://github.com/user-attachments/assets/c38a894c-9b99-4953-9caa-f58ca3e2fa11" />
+
+
+<img width="1095" height="867" alt="image" src="https://github.com/user-attachments/assets/f892be52-c6ba-4f0e-9585-7ad434d438e2" />
+
+
+Para ver el documento original:
 https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node-id=24-124&t=plsQAEgZi6zAMR4H-0
 
 
