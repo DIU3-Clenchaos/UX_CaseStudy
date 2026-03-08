@@ -96,7 +96,7 @@ Hemos realizado la comparación a traves de esta plantilla en Figma:
 
 
 
-###[PERSONAS]
+# Personas
 
 <img width="1239" height="868" alt="image" src="https://github.com/user-attachments/assets/e58a6c64-e411-4d12-9c25-33d5471c725b" />
 
@@ -104,7 +104,7 @@ Hemos realizado la comparación a traves de esta plantilla en Figma:
 <img width="1238" height="867" alt="image" src="https://github.com/user-attachments/assets/511b112e-a399-4298-8c4d-d23a421e02f8" />
 
 
-###[JOURNEY MAP]
+# Journey Map
 
 <img width="1096" height="870" alt="image" src="https://github.com/user-attachments/assets/c38a894c-9b99-4953-9caa-f58ca3e2fa11" />
 
