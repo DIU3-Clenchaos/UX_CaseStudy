@@ -70,6 +70,10 @@ Gracias a la plantilla del profesorado encontrada en Figma, hemos podido realiza
 Para poder ver el Análisis Competitivo, aquí se encuentra el link: 
 https://www.figma.com/design/D2YqxR5eogf3KQ9bkMNoM8/An%C3%A1lisis-de-Competidores-Clench?node-id=0-1&t=nd1Ixj6uiY6wdTrF-1
 
+Añadido con una foto:
+![Group 13890](https://github.com/user-attachments/assets/df840235-0213-46cd-a2bd-e3c2e5d83502)
+
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
