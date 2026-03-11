@@ -1,9 +1,9 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+Para realizar el apartado de ideación, nuestro equipo de investigadores y diseñadores UX han decidido realizar un mapa de empatía, en el que recopilaremos la información que rodea a un usuario, con objetivo de obtener puntos fuertes, débiles y llevar a cabo mejoras.
+
+### Mapa de empatía
 
 
 ### PROPUESTA DE VALOR
