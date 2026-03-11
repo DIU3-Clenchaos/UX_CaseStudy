@@ -109,7 +109,7 @@ https://www.figma.com/design/5rzTbZoQT3DNrN2SdnH6Z1/Personas-DIU3.Clenchaos?node
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-Enlace al documento: [Usability-review](/P1/Usability-review-Clench.pdf)
+Enlace al documento: [Usability-review](/P1/UsabilityReviewClench.pdf)
 
 Comentario sobre la revisión: 
 
