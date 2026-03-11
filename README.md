@@ -79,12 +79,12 @@ Añadido con una foto:
 ![Método UX](img/Persona.png) 
 -----
 
-La primera persona se trata de Gerónimo Benavides, inversor ubicado en el sector de las criptomonedas con conocimientos medios-altos en tecnología y con un carácter decidido y fuerte.
+La primera persona se trata de Gerónimo Benavides, inversor ubicado en el sector de las criptomonedas con conocimientos medios-altos en tecnología y con un carácter decidido y fuerte. Se ha decidido planear una persona avanzada en el sector de la tecnología, pero en cambio, una persona de caracter facilmente irritable y fuerte, para ponerlo en contraste con la web tratada.
 <img width="1239" height="868" alt="image" src="https://github.com/user-attachments/assets/e58a6c64-e411-4d12-9c25-33d5471c725b" />
 
 
 
-La segunda persona es Elena Pineda, una profesora de matemáticas con conocimientos medios-bajos en tecnología. Es una mujer calmada, positiva y determinada:
+La segunda persona es Elena Pineda, una profesora de matemáticas con conocimientos medios-bajos en tecnología. Es una mujer calmada, positiva y determinada. Por el contrario a la primera persona planteada, hemos decidido optar por el caso completamente contrario, tomando una persona poco experimentada y calmada. Estas dos opciones nos permiten exprimir al maximo todas las posibilidades y sensaciones a experimentar con objeto de obtener todos los puntos fuertes y débiles.
 <img width="1238" height="867" alt="image" src="https://github.com/user-attachments/assets/511b112e-a399-4298-8c4d-d23a421e02f8" />
 
 
