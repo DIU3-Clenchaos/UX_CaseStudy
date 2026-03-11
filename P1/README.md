@@ -68,16 +68,6 @@ Requeriremos que los usuarios hagan distintas tareas:
 - Contactar con la empresa.
 - Ubicar el local de la empresa.
 - Encontrar la carta de la tienda y la disponibilidad.
-
-## Cronograma y Entregables
-
----
-
-- **Usability Report** final con las recomendaciones de mejora.
-- Competitive Analisys.
-- Fichas de personas.
-- User Journey Map
-- Usability Review
 ---
 
 # Competitive Analisys
