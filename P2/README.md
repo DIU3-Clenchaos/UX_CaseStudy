@@ -12,7 +12,13 @@ Para realizar el apartado de ideación, nuestro equipo de investigadores y dise�
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+Para la realización de nuestra matriz de tareas, hemos decidido recopilar aquellas funcionalidades mas importantes y necesarias para el usuario, de manera que estableceremos 3 tipos de prioridades segun la importancia de uso para el usuario. Clasificaremos lo usuarios segun la experiencia tecnológica, diferenciando entre:
+- Nula (N)
+- Media (M)
+- Alta (A)
+
+  
 * User/Task flow
 
 
