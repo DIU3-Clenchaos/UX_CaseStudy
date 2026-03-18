@@ -132,11 +132,9 @@ Los puntos débiles son:
 <br>
 
 ## Paso 2. UX Design  
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
+<img width="9362" height="3689" alt="Empathy Map" src="https://github.com/user-attachments/assets/2ade4ee3-7068-4186-80ba-aefc866d7a8f" />
+
 ----
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
