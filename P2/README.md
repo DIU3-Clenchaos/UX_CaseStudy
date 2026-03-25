@@ -8,9 +8,8 @@ Para realizar el apartado de ideaci√≥n, nuestro equipo de investigadores y dise√
 
 ### PROPUESTA DE VALOR
 (Descripcion)
-<img width="1920" height="1080" alt="Scope Canvas" src="https://github.com/user-attachments/assets/16a097b2-d008-4e23-a4f9-e43cc02553fb" />
 
-
+<img width="1920" height="1080" alt="Scope Canvas (1)" src="https://github.com/user-attachments/assets/373441be-7fba-474a-8732-def42c782aa7" />
 
 ### TASK ANALYSIS
 
