@@ -9,9 +9,9 @@ Para realizar el apartado de ideación, nuestro equipo de investigadores y dise�
 ### PROPUESTA DE VALOR
 (Descripcion)
 
-<img width="1920" height="1080" alt="Scope Canvas (1)" src="https://github.com/user-attachments/assets/373441be-7fba-474a-8732-def42c782aa7" />
 
-### TASK ANALYSIS
+### TASK ANALYSIS<img width="1920" height="1080" alt="Scope Canvas (2)" src="https://github.com/user-attachments/assets/fb8b8a7e-ebcb-4604-b4d1-2a5f2d913f22" />
+
 
 * User Task Matrix
 Para la realización de nuestra matriz de tareas, hemos decidido recopilar aquellas funcionalidades mas importantes y necesarias para el usuario, de manera que estableceremos 3 tipos de prioridades segun la importancia de uso para el usuario. Clasificaremos lo usuarios segun la experiencia tecnológica, diferenciando entre:
