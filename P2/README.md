@@ -33,7 +33,6 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 * **Cliente Delivery/Takeaway:** No le importa el mapa ni las colas del recinto; solo quiere ver el menú, los precios y pedir su hamburguesa para comerla en otro lado.
 * **Usuario con Alergias / Dietas Especiales:** Perfil destacado (basado en la métrica de "% de pedidos que filtran alérgenos"). Su tarea crítica es consultar ingredientes antes de realizar cualquier otra acción.
   
-* User/Task flow
 
 
 ### ARQUITECTURA DE INFORMACIÓN
