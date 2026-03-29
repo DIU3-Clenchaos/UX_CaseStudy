@@ -68,6 +68,9 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 ### Prototipo Lo-FI Wireframe 
 
 
+<img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
+
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
 
