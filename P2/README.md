@@ -43,6 +43,7 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 
 
 * Labelling
+  
 | Web                       | Información                                                                 | Referencia |
 |--------------------------|----------------------------------------------------------------------------|------------|
 | Página de Inicio         | Página inicial de la Web                                                   | 🏠         |
