@@ -43,25 +43,25 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 
 
 * Labelling
-* | Web | Información | Referencia |
-| --- | --- | --- |
-| Página de Inicio | Página inicial de la Web | 🏠 |
-| Carta | Catalogo completo de la oferta gastronómica | 📖 |
-| Participantes | Información sobre los participantes | 🚙 |
-| Filtros | Herramienta para afinar la búsqueda en el menú | 🔍 |
-| Hamburguesas | Catálogo detallado con las fotos, ingredientes y precios de cada hamburguesa. | 🍔 |
-| Carrito | Pantalla que muestra el resumen de los productos seleccionados antes de comprar. | 🛒 |
-| Pago | Información y gestión de Pagos | 💵 |
-| Mapa Interactivo | Plano digital del recinto diseñado especialmente para los asistentes físicos. | 🗺 |
-| Ubicación | Información de la ubicación del Evento | 📍 |
-| Tiempo de Colas | Indicador en tiempo real de cuánto hay que esperar en cada puesto. | ⏰ |
-| Puntos de Interes | Posición exacta de cada Food Truck dentro del evento. | ⭐ |
-| Reservas | Sistema para asegurar un sitio en el recinto antes de ir. | ✍ |
-| Selección de Mesas | Mapa visual para elegir en qué mesa o zona exacta sentarse. | 🪑 |
-| Horarios | Selector de tramos horarios disponibles para la reserva. | 📅 |
-| Confirmación de Reservas | Pantalla final que genera el ticket o código QR para acceder a la mesa. | ✅ |
-| FAQs | Preguntas frecuentes para resolver dudas rápidas de los usuarios sin necesidad de contactar con soporte. | ❓ |
-| Contacto | Centro de información y vías de comunicación con la organización. | 📮 |
+| Web                       | Información                                                                 | Referencia |
+|--------------------------|----------------------------------------------------------------------------|------------|
+| Página de Inicio         | Página inicial de la Web                                                   | 🏠         |
+| Carta                    | Catálogo completo de la oferta gastronómica                                | 📖         |
+| Participantes            | Información sobre los participantes                                        | 🚙         |
+| Filtros                  | Herramienta para afinar la búsqueda en el menú                             | 🔍         |
+| Hamburguesas             | Catálogo detallado con fotos, ingredientes y precios de cada hamburguesa  | 🍔         |
+| Carrito                  | Resumen de los productos seleccionados antes de comprar                   | 🛒         |
+| Pago                     | Información y gestión de pagos                                             | 💵         |
+| Mapa Interactivo         | Plano digital del recinto para los asistentes                              | 🗺         |
+| Ubicación                | Información de la ubicación del evento                                     | 📍         |
+| Tiempo de Colas          | Indicador en tiempo real de la espera en cada puesto                      | ⏰         |
+| Puntos de Interés        | Posición exacta de cada Food Truck dentro del evento                      | ⭐         |
+| Reservas                 | Sistema para asegurar un sitio antes de asistir                           | ✍         |
+| Selección de Mesas       | Mapa visual para elegir mesa o zona                                       | 🪑         |
+| Horarios                 | Selector de tramos horarios disponibles                                   | 📅         |
+| Confirmación de Reservas | Genera ticket o código QR para acceder a la mesa                          | ✅         |
+| FAQs                     | Preguntas frecuentes para resolver dudas rápidas                          | ❓         |
+| Contacto                 | Información y vías de comunicación con la organización                    | 📮         |
 
 
 ### Prototipo Lo-FI Wireframe 
