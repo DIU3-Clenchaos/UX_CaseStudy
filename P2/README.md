@@ -39,7 +39,8 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 
 * Sitemap
 * 
-<img width="1151" height="751" alt="sitemap (2)" src="https://github.com/user-attachments/assets/8fd9e1c5-fe56-4512-982a-bd3cb0d522cb" />
+<img width="1151" height="751" alt="sitemap (3)" src="https://github.com/user-attachments/assets/9bd56aea-a7c4-4a23-950e-721138ff0025" />
+
 
 
 
