@@ -4,7 +4,10 @@
 Para realizar el apartado de ideación, nuestro equipo de investigadores y diseñadores UX han decidido realizar un mapa de empatía, en el que recopilaremos la información que rodea a un usuario, con objetivo de obtener puntos fuertes, débiles y llevar a cabo mejoras.
 
 ### Mapa de empatía
+<img width="1096" height="870" alt="image" src="https://github.com/user-attachments/assets/c38a894c-9b99-4953-9caa-f58ca3e2fa11" />
 
+
+<img width="1095" height="867" alt="image" src="https://github.com/user-attachments/assets/f892be52-c6ba-4f0e-9585-7ad434d438e2" />
 
 ### PROPUESTA DE VALOR
 (Descripcion)
