@@ -38,7 +38,8 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-<img width="1231" height="781" alt="sitemap" src="https://github.com/user-attachments/assets/32e31a32-976f-4e81-809b-281db479c56a" />
+<img width="1151" height="751" alt="sitemap (1)" src="https://github.com/user-attachments/assets/cae7b8c1-c90e-4dfb-ab74-dbb3219ba331" />
+
 
 
 * Labelling 
