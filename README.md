@@ -20,9 +20,7 @@ Actualizado: 14/01/2026
 
 Grupo: DIU3.Clenchaos.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: Remake Champions Burger
 
 Descripción: 
 
