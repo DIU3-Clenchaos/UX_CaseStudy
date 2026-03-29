@@ -56,9 +56,6 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 | Carrito                  | Resumen de los productos seleccionados antes de comprar                   | 🛒         |
 | Pago                     | Información y gestión de pagos                                             | 💵         |
 | Mapa Interactivo         | Plano digital del recinto para los asistentes                              | 🗺         |
-| Ubicación                | Información de la ubicación del evento                                     | 📍         |
-| Tiempo de Colas          | Indicador en tiempo real de la espera en cada puesto                      | ⏰         |
-| Puntos de Interés        | Posición exacta de cada Food Truck dentro del evento                      | ⭐         |
 | Reservas                 | Sistema para asegurar un sitio antes de asistir                           | ✍         |
 | Selección de Mesas       | Mapa visual para elegir mesa o zona                                       | 🪑         |
 | Horarios                 | Selector de tramos horarios disponibles                                   | 📅         |
