@@ -186,7 +186,12 @@ Los puntos débiles son:
 ![Método UX](img/Wireframes.png) 
 -----
 
-(descripcion)
+Nuestro objetivo en el diseño de la página web es la sencillez, intuitividad y facilidad del usuario para encontrar lo que le interesa. En la página principal hemos optado por un menú
+siempre visible justo debajo del header y, tomando todo el protagonismo, un espacio reservado para fotos de las hamburguesas ofrecidas y un botón que permita al usuario pedir la hamburguesa
+rápidamente, a la vez que puede navegar por todos los demás apartados de la página.
+
+En la carta, así como en el resto de apartados, se aprecia que hemos mantenido la misma filosofía. En este caso, hemos incluído un botón para ver la información de los foodtrucks y otro para abrir el filtro de alérgenos.
+
 
 Página Principal
 
