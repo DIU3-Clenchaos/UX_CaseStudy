@@ -188,13 +188,25 @@ Los puntos débiles son:
 
 (descripcion)
 
+Página Principal
+
+
 <img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
+
+
+Carta
 
 
 <img width="1440" height="1440" alt="carta" src="https://github.com/user-attachments/assets/aa613317-1f18-451a-b702-3278afd1be1d" />
 
 
+Mapa Interactivo
+
+
 <img width="1440" height="1440" alt="mapa_interactivo" src="https://github.com/user-attachments/assets/d4a94a74-6ee8-4174-af20-7046ff5ebf81" />
+
+
+Reserva
 
 
 <img width="1440" height="1440" alt="reservas" src="https://github.com/user-attachments/assets/0d5397a4-cb19-4562-b623-650b8a254bfa" />
