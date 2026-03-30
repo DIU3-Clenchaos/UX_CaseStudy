@@ -159,14 +159,6 @@ Los puntos débiles son:
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
-
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
-
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
