@@ -24,7 +24,11 @@ Nombre del Proyecto: Remake Champions Burger
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El proyecto Remake Champions Burger tiene como objetivo rediseñar y mejorar la web oficial del evento The Champions Burger. La propuesta se centra en solucionar las principales carencias detectadas en la plataforma actual, como la dificultad para encontrar información relevante, la falta de herramientas de filtrado eficientes y una experiencia de usuario poco fluida.
+
+Para ello, se decidirá implementar un mapa interactivo con informacion tal como el tiempo restante de cola; informacion adicional de las hamburguesas y rediseño de la web.
+
+
 
 Logotipo: 
 
