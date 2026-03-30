@@ -7,8 +7,14 @@ Para realizar el apartado de ideación, nuestro equipo de investigadores y dise�
 <img width="9362" height="3689" alt="Empathy Map" src="https://github.com/user-attachments/assets/2ade4ee3-7068-4186-80ba-aefc866d7a8f" />
 
 ### PROPUESTA DE VALOR
-(Descripcion)
+Nuestro propósito con el sitio de The Champions Burguer se enfoca sobre todo en un sistema de mapa interactivo del recinto en el que se celebra la competición, con el objetivo de que les sirva a los usuarios para
+poder decidir si pedir a domicilio o ir presencialmente dependiendo de la cantidad de personas que haya y el tiempo estimado de cola en los foodtrucks. Pensamos que es algo sumamente importante en un evento
+como este, pues la mayoría de personas asiste sin esperarse un aforo tan extremo. De esta forma, podrán anticiparse al estado de los foodtrucks en todo momento.
 
+También proponemos la implementación de un sistema para reservar mesas y asientos del evento. Así, los clientes pueden asegurarse un lugar en el que comer sentados de manera dinámica y sencilla.
+
+Por último, hemos pensado en las personas con intolerancias o alergias y optamos por añadir un filtro de alérgenos que permita al cliente ver solo aquellas hamburguesas que cumplan con sus necesidades, ofreciendo
+seguridad y confianza al usuario.
 
 ### TASK ANALYSIS<img width="1920" height="1080" alt="Scope Canvas (2)" src="https://github.com/user-attachments/assets/fb8b8a7e-ebcb-4604-b4d1-2a5f2d913f22" />
 
@@ -38,7 +44,6 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-* 
 <img width="1151" height="751" alt="sitemap (3)" src="https://github.com/user-attachments/assets/9bd56aea-a7c4-4a23-950e-721138ff0025" />
 
 
