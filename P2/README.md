@@ -86,7 +86,13 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Tras el análisis exhaustivo de la plataforma actual y el desarrollo de nuestra propuesta de diseño, hemos llegado a las siguientes conclusiones:
+*Identificación de puntos críticos: La web oficial presenta carencias en la gestión de flujos de usuarios en eventos masivos. La falta de información en tiempo real sobre esperas y ocupación genera una fricción innecesaria que hemos resuelto mediante el mapa interactivo dinámico.
+*Optimización de la Arquitectura: El diseño del nuevo sitemap no solo organiza el contenido, sino que prioriza la conversión. Hemos simplificado el camino del usuario (user journey) para que el paso de "ver una hamburguesa" a "realizar el pedido" sea directo e intuitivo.
+*Validación del Wireframe: La creación de los wireframes nos ha permitido validar que la sencillez visual es compatible con la funcionalidad avanzada (filtros de alérgenos y reservas). Hemos pasado de una web puramente informativa a una herramienta logística para el asistente.
+
+La realización de esta práctica ha sido fundamental para entender que el diseño UX/UI no se limita a la estética, sino a la resolución de problemas logísticos reales. Enfrentarnos a las debilidades de una página real nos ha obligado a pensar como arquitectos de información
+y gestores de eventos simultáneamente.
 
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
