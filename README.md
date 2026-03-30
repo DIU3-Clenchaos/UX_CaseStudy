@@ -191,27 +191,35 @@ siempre visible justo debajo del header y, tomando todo el protagonismo, un espa
 rápidamente, a la vez que puede navegar por todos los demás apartados de la página.
 
 En la carta, así como en el resto de apartados, se aprecia que hemos mantenido la misma filosofía. En este caso, hemos incluído un botón para ver la información de los foodtrucks y otro para abrir el filtro de alérgenos.
+También hemos añadido un carrito que le muestre al usuario las hamburguesas que ha ido seleccionando y le ofrezca la opcción de pedirlas. Todo el protagonismo lo tienen las fotos y la descripción de todas las hamburguesas,
+que aparecen con mayor tamaño y atractivo que el resto.
+
+El mapa interactivo simplemente mostrará una imagen del recinto visto desde arriba con iconos mostrando los foodtrucks y zonas de interés (barra, baños, puestos secundarios, etc).
+
+La página de reserva será similar a la descrita justo antes. Mostrará el mapa del reacinto pero solamente con las zonas, mesas y asientosa disponibles para reserva, junto con desplegables para elegir fecha y hora de reserva de entre las disponibles.
 
 
-Página Principal
+
+
+#Página Principal
 
 
 <img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
 
 
-Carta
+#Carta
 
 
 <img width="1440" height="1440" alt="carta" src="https://github.com/user-attachments/assets/aa613317-1f18-451a-b702-3278afd1be1d" />
 
 
-Mapa Interactivo
+#Mapa Interactivo
 
 
 <img width="1440" height="1440" alt="mapa_interactivo" src="https://github.com/user-attachments/assets/d4a94a74-6ee8-4174-af20-7046ff5ebf81" />
 
 
-Reserva
+#Reserva
 
 
 <img width="1440" height="1440" alt="reservas" src="https://github.com/user-attachments/assets/0d5397a4-cb19-4562-b623-650b8a254bfa" />
