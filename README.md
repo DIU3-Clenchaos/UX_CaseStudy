@@ -155,26 +155,49 @@ Los puntos débiles son:
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35d6855d-4c41-40a4-8e77-0f6f187e8747" />
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+<img width="1151" height="751" alt="image" src="https://github.com/user-attachments/assets/53f5692b-26c9-4058-bdc9-f06300e35e35" />
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Web                       | Información                                                                 | Referencia |
+|--------------------------|----------------------------------------------------------------------------|------------|
+| Página de Inicio         | Página inicial de la Web                                                   | 🏠         |
+| Carta                    | Catálogo completo de la oferta gastronómica                                | 📖         |
+| Participantes            | Información sobre los participantes                                        | 🚙         |
+| Filtros                  | Herramienta para afinar la búsqueda en el menú                             | 🔍         |
+| Hamburguesas             | Catálogo detallado con fotos, ingredientes y precios de cada hamburguesa  | 🍔         |
+| Carrito                  | Resumen de los productos seleccionados antes de comprar                   | 🛒         |
+| Pago                     | Información y gestión de pagos                                             | 💵         |
+| Mapa Interactivo         | Plano digital del recinto para los asistentes                              | 🗺         |
+| Reservas                 | Sistema para asegurar un sitio antes de asistir                           | ✍         |
+| Selección de Mesas       | Mapa visual para elegir mesa o zona                                       | 🪑         |
+| Horarios                 | Selector de tramos horarios disponibles                                   | 📅         |
+| Confirmación de Reservas | Genera ticket o código QR para acceder a la mesa                          | ✅         |
+| FAQs                     | Preguntas frecuentes para resolver dudas rápidas                          | ❓         |
+| Contacto                 | Información y vías de comunicación con la organización                    | 📮         |
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+(descripcion)
+
+<img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
+
+
+<img width="1440" height="1440" alt="carta" src="https://github.com/user-attachments/assets/aa613317-1f18-451a-b702-3278afd1be1d" />
+
+
+<img width="1440" height="1440" alt="mapa_interactivo" src="https://github.com/user-attachments/assets/d4a94a74-6ee8-4174-af20-7046ff5ebf81" />
+
+
+<img width="1440" height="1440" alt="reservas" src="https://github.com/user-attachments/assets/0d5397a4-cb19-4562-b623-650b8a254bfa" />
 
 <br>
 
