@@ -94,6 +94,3 @@ Tras el análisis exhaustivo de la plataforma actual y el desarrollo de nuestra 
 La realización de esta práctica ha sido fundamental para entender que el diseño UX/UI no se limita a la estética, sino a la resolución de problemas logísticos reales. Enfrentarnos a las debilidades de una página real nos ha obligado a pensar como arquitectos de información
 y gestores de eventos simultáneamente.
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
