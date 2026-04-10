@@ -73,16 +73,20 @@ A continuación se presenta la matriz cruzando las tareas principales (extraída
 ### Prototipo Lo-FI Wireframe 
 
 
-<img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
+<img width="1686" height="1055" alt="image" src="https://github.com/user-attachments/assets/24b9e91a-81a7-4b1f-b825-5a49e4c81b7f" />
 
 
-<img width="1440" height="1440" alt="carta" src="https://github.com/user-attachments/assets/aa613317-1f18-451a-b702-3278afd1be1d" />
+
+<img width="1685" height="1079" alt="image" src="https://github.com/user-attachments/assets/87baf13c-9938-477a-9966-f8192d19f47f" />
 
 
-<img width="1440" height="1440" alt="mapa_interactivo" src="https://github.com/user-attachments/assets/d4a94a74-6ee8-4174-af20-7046ff5ebf81" />
+
+<img width="1682" height="1090" alt="image" src="https://github.com/user-attachments/assets/5bf110d4-5fe5-448b-b641-2b4ef5762fc0" />
 
 
-<img width="1440" height="1440" alt="reservas" src="https://github.com/user-attachments/assets/0d5397a4-cb19-4562-b623-650b8a254bfa" />
+
+<img width="1687" height="1058" alt="image" src="https://github.com/user-attachments/assets/da818a66-31ec-454c-8e1f-1e26aca6076a" />
+
 
 
 ### Conclusiones  
