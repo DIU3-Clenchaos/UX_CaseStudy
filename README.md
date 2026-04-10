@@ -204,25 +204,29 @@ La página de reserva será similar a la descrita justo antes. Mostrará el mapa
 Página Principal
 
 
-<img width="1440" height="1440" alt="index" src="https://github.com/user-attachments/assets/8e55df92-376c-4d41-966e-b8eaac2d0034" />
+<img width="1686" height="1055" alt="image" src="https://github.com/user-attachments/assets/91bc2a59-ac5a-44d2-882f-55a0cb9ed8bd" />
+
 
 
 Carta
 
 
-<img width="1440" height="1440" alt="carta" src="https://github.com/user-attachments/assets/aa613317-1f18-451a-b702-3278afd1be1d" />
+<img width="1685" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e8b8acc-c928-47ac-88d6-4908f56c296f" />
+
 
 
 Mapa Interactivo
 
 
-<img width="1440" height="1440" alt="mapa_interactivo" src="https://github.com/user-attachments/assets/d4a94a74-6ee8-4174-af20-7046ff5ebf81" />
+<img width="1685" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f753ac3-ecaa-40ab-b31b-54b8c3040415" />
+
 
 
 Reserva
 
 
-<img width="1440" height="1440" alt="reservas" src="https://github.com/user-attachments/assets/0d5397a4-cb19-4562-b623-650b8a254bfa" />
+<img width="1687" height="1058" alt="image" src="https://github.com/user-attachments/assets/42be9e78-96b8-44c4-9897-fd026c6af816" />
+
 
 <br>
 
