@@ -218,7 +218,8 @@ Carta
 Mapa Interactivo
 
 
-<img width="1685" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f753ac3-ecaa-40ab-b31b-54b8c3040415" />
+<img width="1682" height="1090" alt="image" src="https://github.com/user-attachments/assets/9869b49a-72c5-49bb-9d93-f16ee04d718a" />
+
 
 
 
