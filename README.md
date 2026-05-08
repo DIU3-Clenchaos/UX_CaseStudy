@@ -233,12 +233,17 @@ Reserva
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
+<img width="1151" height="820" alt="image" src="https://github.com/user-attachments/assets/5f759595-fc5f-4ce8-92a2-c73911532fb1" />
+
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+
+<img width="1536" height="2320" alt="LandingPage" src="https://github.com/user-attachments/assets/d32d711e-cba7-45a5-8797-24fa06fcaae4" />
 
 
 ### 3.c Guidelines
