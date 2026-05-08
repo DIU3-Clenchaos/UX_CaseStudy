@@ -243,25 +243,32 @@ Reserva
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
+
+
+### 3.c Design System
+### 3.c.1 Fundations
+<img width="647" height="734" alt="image" src="https://github.com/user-attachments/assets/38e761c8-06e5-4023-9982-744f21e86c59" />
+### 3.c.2 Atomic Design
+<img width="1122" height="794" alt="Atomos" src="https://github.com/user-attachments/assets/0f5204ba-7c74-42e2-b540-e52a8ea2d8b2" />
+<img width="789" height="638" alt="Frame 1" src="https://github.com/user-attachments/assets/89321f0e-0454-4958-9645-0c4fa88a9d26" />
+<img width="985" height="128" alt="HEADER" src="https://github.com/user-attachments/assets/abfab254-31a7-4e1b-b871-0b70d0284453" />
+<img width="985" height="378" alt="HERO" src="https://github.com/user-attachments/assets/155fc55d-3152-4bb4-865c-8842654c972e" />
+<img width="966" height="200" alt="FOOTER" src="https://github.com/user-attachments/assets/5c42f083-22d6-4cb5-9326-1a530959eb14" />
+<img width="590" height="220" alt="Slide Hamburguesa" src="https://github.com/user-attachments/assets/9fa446c4-087f-496a-aecc-2585d96efbb3" />
+
+### 3.c.3 Layout HI-FI
 <img width="1536" height="2320" alt="LandingPage" src="https://github.com/user-attachments/assets/d32d711e-cba7-45a5-8797-24fa06fcaae4" />
+<img width="1536" height="2788" alt="Carta" src="https://github.com/user-attachments/assets/0dfa60a6-1043-4b9c-841b-0933b9ee4e7f" />
+<img width="1551" height="1780" alt="Foodtruck Map Page" src="https://github.com/user-attachments/assets/546a7265-21b4-4bf2-8971-1bc330bcb6ed" />
+<img width="990" height="1967" alt="Interactive Map Page" src="https://github.com/user-attachments/assets/146e59e9-7af1-489f-b37d-24f5cc67e990" />
 
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### 3.d Briefing
 
 
-### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
-<br>
+
 
 ## Paso 4. Pruebas de Evaluación 
 
