@@ -248,6 +248,7 @@ Reserva
 ### 3.c Design System
 ### 3.c.1 Fundations
 <img width="647" height="734" alt="image" src="https://github.com/user-attachments/assets/38e761c8-06e5-4023-9982-744f21e86c59" />
+
 ### 3.c.2 Atomic Design
 <img width="1122" height="794" alt="Atomos" src="https://github.com/user-attachments/assets/0f5204ba-7c74-42e2-b540-e52a8ea2d8b2" />
 <img width="789" height="638" alt="Frame 1" src="https://github.com/user-attachments/assets/89321f0e-0454-4958-9645-0c4fa88a9d26" />
