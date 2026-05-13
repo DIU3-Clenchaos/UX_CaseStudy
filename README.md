@@ -323,19 +323,19 @@ Con este rediseño se espera que la web no solo sea más atractiva, sino tambié
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
+
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El **Caso-B** corresponde al proyecto **Remake Champions Burger**, cuyo objetivo es rediseñar la web del evento The Champions Burger para mejorar la navegación, la búsqueda de información, la claridad visual y la experiencia de usuario tanto en versión web como móvil.
 
+Repositorio GitHub: [Añadir aquí enlace al repositorio]
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| ------------- | -------- | ----------- | ----------- | ----------- | ---------- | ---- |
+| Alejandro Ruiz | H / 20 | Estudiante universitario | Media | Impaciente | Web | A |
+| Laura Medina | M / 22 | Estudiante | Alta | Analítica | Web | A |
+| Marta Sánchez | M / 35 | Administrativa | Baja | Práctica | Móvil | B |
+| Daniel Torres | H / 19 | Estudiante | Media | Curioso | Web | B |
 
 
 ### 4.b Diseño de las pruebas 
