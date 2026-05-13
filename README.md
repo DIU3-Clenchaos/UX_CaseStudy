@@ -306,7 +306,15 @@ Reserva
 
 ### 3.d Briefing
 
+El proyecto **Remake Champions Burger** consiste en rediseñar la web de *The Champions Burger* para mejorar su usabilidad, organización visual y claridad de la información. La propuesta surge tras detectar problemas como la dificultad para encontrar datos relevantes, la falta de filtros útiles y la ausencia de información sobre colas o distribución del recinto.
 
+El objetivo principal es crear una web más intuitiva, atractiva y funcional, que permita al usuario consultar la carta, ver los foodtrucks participantes, filtrar hamburguesas por preferencias o alérgenos, localizar puestos en un mapa interactivo y planificar mejor su visita al evento.
+
+El público objetivo son personas que quieren asistir al evento y necesitan información rápida y clara, tanto desde ordenador como desde móvil. Por ello, el diseño se basa en una navegación sencilla, elementos visuales destacados, imágenes grandes de producto e iconos fáciles de entender.
+
+La solución propuesta incluye una landing page visual, una carta organizada, un sistema de filtros, un mapa interactivo con tiempos aproximados de cola y una sección de reservas. Todo ello mantiene una estética oscura, moderna y urbana, coherente con el ambiente del evento.
+
+Con este rediseño se espera que la web no solo sea más atractiva, sino también más útil para el usuario, ayudándole a decidir qué comer, dónde ir y cómo organizar mejor su experiencia en *The Champions Burger*.
 
 
 
