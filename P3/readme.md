@@ -1,8 +1,6 @@
 # DIU - Practica 3, entregables
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
@@ -13,8 +11,6 @@
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
