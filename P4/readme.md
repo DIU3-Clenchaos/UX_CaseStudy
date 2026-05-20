@@ -225,7 +225,7 @@ Enlace: https://www.figma.com/make/qb3R4W4QMBYFErtPn7tJvK/Landing-Page?code-node
 
 ## Reservas
 
-Enlace: 
+Enlace: https://www.figma.com/make/dkRt8FTT9VZaSu6GxJGvSH/Reservas?code-node-id=0-9&p=f&t=8E9alAMIwi6kRx3i-0&fullscreen=1
 
 <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/257d8499-f031-481f-b8fb-03d9b5305d0a" />
 
