@@ -129,3 +129,82 @@ export default function App() {
   );
 }
 ```
+
+## Landing Page
+
+Este código corresponde a la página principal de **Remake Champions Burguer**, hecha con React.
+
+### `App.tsx`
+
+El componente `App` monta la estructura principal de la página.
+
+Importa varios componentes y los muestra en orden:
+
+```tsx
+<Navigation />
+<Hero />
+<Features />
+<Quote />
+<CTA />
+<Footer />
+```
+
+También aplica un fondo oscuro y centra el contenido en una anchura máxima.
+
+### `Navigation`
+
+Es la barra superior de navegación.
+
+Muestra el logo/nombre de la web y varios enlaces:
+
+- Carta
+- Historia
+- Colas
+- Reservas
+- Pedir ahora
+
+Algunos botones abren páginas externas de Figma en una nueva pestaña y el botón de historia hace scroll hasta la sección correspondiente.
+
+### `Hero`
+
+Es la sección principal de presentación.
+
+Muestra el mensaje inicial de la web, una descripción del restaurante y botones como:
+
+- Pedir mi hamburguesa
+- Ver carta
+
+También enseña una hamburguesa destacada con precio y valoración.
+
+### `Features`
+
+Muestra las características principales del proyecto.
+
+Explica qué hace diferente al restaurante:
+
+- Accesibilidad desde cualquier dispositivo.
+- Producto local y de barrio.
+- Entrega en unos 30 minutos.
+
+### `Quote`
+
+Es una sección de frase destacada.
+
+Incluye una cita sobre la ambición de ser los mejores y aparece firmada por los fundadores.
+
+También tiene el identificador `historia`, por eso el menú puede hacer scroll hasta esta parte.
+
+### `Footer`
+
+Es el pie de página.
+
+Muestra el copyright:
+
+```text
+© 2026 Remake Champions Burguer
+```
+
+### Resumen final
+
+La página está dividida en componentes reutilizables.  
+`App` organiza toda la estructura, mientras que cada componente se encarga de una parte concreta: navegación, presentación, características, frase destacada y pie de página.
