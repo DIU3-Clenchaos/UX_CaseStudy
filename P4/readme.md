@@ -232,14 +232,14 @@ Enlace: https://www.figma.com/make/umOBe1oAutbmwpfvyrIp1I/Carta?code-node-id=0-9
 
 ## Colas
 
-Enlace: https://www.figma.com/make/dkRt8FTT9VZaSu6GxJGvSH/Reservas?code-node-id=0-9&p=f&t=8E9alAMIwi6kRx3i-0&fullscreen=1
+Enlace: https://www.figma.com/make/eOqoBcdyeegwxTTnvB5Sg5/Colas?code-node-id=0-9&p=f&t=dvH7GmKrtTfSldZT-0&fullscreen=1
 
 <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/257d8499-f031-481f-b8fb-03d9b5305d0a" />
 
 
 ## Reservas
 
-Enlace: 
+Enlace: https://www.figma.com/make/dkRt8FTT9VZaSu6GxJGvSH/Reservas?code-node-id=0-9&p=f&t=8E9alAMIwi6kRx3i-0&fullscreen=1
 
 <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/ccc64546-32f6-41f2-995f-550588b575f3" />
 
