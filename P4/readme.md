@@ -82,7 +82,7 @@ Es el pie de página.
 
 Muestra el copyright:
 
-## 🍔 Vista: Carta de Hamburguesas
+## 🍔 Carta de Hamburguesas
 
 Esta vista presenta el catálogo de productos interactivo. El componente raíz utiliza un patrón de diseño basado en proveedores de contexto (Context API) para mantener el código escalable y el estado global accesible.
 
