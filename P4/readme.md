@@ -8,9 +8,38 @@
 >>> Customizar el nav para que cambie a donde queramos o si no lo especificamos en el readme para no complicarse
 >>> 
 
+
+
 ##Explicación de las distintas Páginas y sus Códigos React
+
 ###Página de Colas Interactivas
 Esta vista facilita la toma de decisiones en tiempo real dentro del recinto. El componente App.jsx actúa como orquestador principal, manteniendo los componentes visuales limpios y desacoplados.
+
+import { Header } from './components/Header';
+import { FiltersSidebar } from './components/FiltersSidebar';
+import { MapView } from './components/MapView';
+import { TruckDetails } from './components/TruckDetails';
+import { useFoodTruckFilters } from './components/useFoodTruckFilters';
+
+export default function App() {
+  const filters = useFoodTruckFilters();
+
+  return (
+    <div className="bg-[#0b0e0f] flex flex-col items-start relative size-full">
+      <Header />
+      <div className="flex-[780_0_0] min-h-px relative w-full flex justify-center gap-4 px-4">
+        <FiltersSidebar {...filters} onReset={filters.resetFilters} />
+        <MapView
+          trucks={filters.filteredTrucks}
+          selectedTruck={filters.selectedTruck}
+          onSelectTruck={filters.setSelectedTruck}
+        />
+        <TruckDetails truck={filters.selectedTruck} />
+      </div>
+    </div>
+  );
+}
+
 
 Arquitectura:
 
