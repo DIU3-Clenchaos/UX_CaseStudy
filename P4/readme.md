@@ -211,3 +211,12 @@ El usuario explora el festival a través del mapa y utiliza los filtros para bus
 
 La página está dividida en componentes reutilizables.  
 `App` organiza toda la estructura, mientras que cada componente se encarga de una parte concreta: navegación, presentación, características, frase destacada y pie de página.
+
+
+
+
+# Imágenes del Resultado
+## Landing Page
+
+<img width="1174" height="873" alt="image" src="https://github.com/user-attachments/assets/114729ef-7f90-4dd3-a141-c70843e57bb8" />
+
