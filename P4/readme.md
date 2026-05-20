@@ -1,14 +1,4 @@
 # DIU - Practica 4, entregables
->>> Tenemos que pasarlo a react y si queremos realizamos el despliegue con figma make (ya hecho porque funciona). Establecer en el readme lo que queremos que las otras personas
->>> evaluen para que se nos evalue de manera correcta
->>> En la p3 se entregan las capturas de lo que tenemos hecho de figma make como captura.
->>>
->>> Capturas con todas las refactorizaciones y ademas subir el poyecto con todo el codigo react aqui al github 
->>>
->>> Customizar el nav para que cambie a donde queramos o si no lo especificamos en el readme para no complicarse
->>> 
-
-
 
 ## Explicación de las distintas Páginas y sus Códigos React
 
@@ -242,6 +232,10 @@ Enlace: https://www.figma.com/make/eOqoBcdyeegwxTTnvB5Sg5/Colas?code-node-id=0-9
 Enlace: https://www.figma.com/make/dkRt8FTT9VZaSu6GxJGvSH/Reservas?code-node-id=0-9&p=f&t=8E9alAMIwi6kRx3i-0&fullscreen=1
 
 <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/ccc64546-32f6-41f2-995f-550588b575f3" />
+
+
+# Evaluación 
+Orientado a los compañeros que tengan que evaluar nuestro proyecto. Se debe evaluar entrando a "Landing Page", a través del cual puedes consultar todas las demas páginas del sitio mediante redirecciones en el nav.
 
 
 
