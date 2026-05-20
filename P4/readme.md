@@ -223,6 +223,13 @@ Enlace: https://www.figma.com/make/qb3R4W4QMBYFErtPn7tJvK/Landing-Page?code-node
 <img width="1174" height="873" alt="image" src="https://github.com/user-attachments/assets/114729ef-7f90-4dd3-a141-c70843e57bb8" />
 
 
+## Carta
+
+Enlace: 
+
+<img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/03e641fc-c4ea-458a-8a3e-d4782981ac40" />
+
+
 ## Reservas
 
 Enlace: https://www.figma.com/make/dkRt8FTT9VZaSu6GxJGvSH/Reservas?code-node-id=0-9&p=f&t=8E9alAMIwi6kRx3i-0&fullscreen=1
