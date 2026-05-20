@@ -103,3 +103,29 @@ En resumen, `ReservationPage` organiza la página y conecta la lógica de reserv
 
 Flujo de Usuario (UX):
 El usuario explora el festival a través del mapa y utiliza los filtros para buscar opciones (ej. colas más rápidas). Al seleccionar un punto en el mapa, el panel de detalles revela información crítica, siendo el tiempo de espera estimado el dato clave para minimizar los tiempos muertos y optimizar su experiencia.
+
+## 🍔 Vista: Carta de Hamburguesas
+
+Esta vista presenta el catálogo de productos interactivo. El componente raíz utiliza un patrón de diseño basado en proveedores de contexto (Context API) para mantener el código escalable y el estado global accesible.
+
+**Arquitectura:**
+* **Gestión de Estado Global (`AppProviders`):** Componente envoltorio (*wrapper*) que inyecta las dependencias y el estado global a toda la aplicación (ej. datos del carrito de la compra, lista de productos, temas visuales). Evita el *prop drilling* (pasar propiedades manualmente por cada nivel de componentes).
+* **Estructura Principal (`AppLayout`):** Componente que define el esqueleto visual de la página. Se encarga de organizar los bloques principales de la interfaz (cabecera, cuadrícula de productos, pie de página) consumiendo el contexto proporcionado por su elemento padre.
+
+**Flujo de Usuario (UX):**
+El usuario explora la carta completa del festival de forma fluida. Gracias a la arquitectura de proveedores, cualquier interacción compleja —como añadir una hamburguesa al pedido o filtrar por alérgenos— actualiza el estado global de forma centralizada, reflejándose inmediatamente en toda la interfaz sin recargas de página.
+
+### Componente Principal (`App.jsx`)
+
+```jsx
+import { AppProviders } from "./components/AppProviders";
+import { AppLayout } from "./components/AppLayout";
+
+export default function App() {
+  return (
+    <AppProviders>
+      <AppLayout />
+    </AppProviders>
+  );
+}
+```
