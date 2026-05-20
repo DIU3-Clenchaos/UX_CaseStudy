@@ -225,7 +225,7 @@ Enlace: https://www.figma.com/make/qb3R4W4QMBYFErtPn7tJvK/Landing-Page?code-node
 
 ## Carta
 
-Enlace: 
+Enlace: https://www.figma.com/make/umOBe1oAutbmwpfvyrIp1I/Carta?code-node-id=0-9&p=f&t=O0RT3XJL8lXnhXQQ-0&fullscreen=1
 
 <img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/03e641fc-c4ea-458a-8a3e-d4782981ac40" />
 
