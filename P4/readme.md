@@ -218,5 +218,7 @@ La página está dividida en componentes reutilizables.
 # Imágenes del Resultado
 ## Landing Page
 
+Enlace: https://www.figma.com/make/qb3R4W4QMBYFErtPn7tJvK/Landing-Page?code-node-id=0-9&p=f&t=YGlMNwrT3xorResQ-0&fullscreen=1
+
 <img width="1174" height="873" alt="image" src="https://github.com/user-attachments/assets/114729ef-7f90-4dd3-a141-c70843e57bb8" />
 
