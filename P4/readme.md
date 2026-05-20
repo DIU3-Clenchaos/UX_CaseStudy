@@ -10,9 +10,9 @@
 
 
 
-##Explicación de las distintas Páginas y sus Códigos React
+## Explicación de las distintas Páginas y sus Códigos React
 
-###Página de Colas Interactivas
+### Página de Colas Interactivas
 Esta vista facilita la toma de decisiones en tiempo real dentro del recinto. El componente App.jsx actúa como orquestador principal, manteniendo los componentes visuales limpios y desacoplados.
 
 ```jsx
