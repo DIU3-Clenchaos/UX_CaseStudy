@@ -54,5 +54,52 @@ MapView: Renderiza los puestos filtrados en un mapa interactivo y captura la sel
 
 TruckDetails: Muestra la información estratégica del puesto seleccionado.
 
+## Página de reservas
+### Resumen de la página de reservas
+
+Este código muestra la página principal de reservas en React.
+
+### `App`
+
+```jsx
+import { ReservationPage } from "./components/reservation/ReservationPage";
+
+export default function App() {
+  return <ReservationPage />;
+}
+```
+
+`App` importa y carga directamente el componente `ReservationPage`, por lo que la aplicación muestra la página de reservas.
+
+### `ReservationPage`
+
+```jsx
+export function ReservationPage() {
+  const r = useReservation();
+
+  return (
+    <PageShell cartCount={r.selected.length}>
+      <HeroSection />
+      <MapSection r={r} />
+      <SelectionSection r={r} />
+      <FiltersSection r={r} />
+    </PageShell>
+  );
+}
+```
+
+`ReservationPage` construye la página de reservas. Usa `useReservation()` para gestionar la lógica, como los elementos seleccionados y los filtros.
+
+La página se mete dentro de `PageShell`, que actúa como contenedor principal y recibe el número de elementos seleccionados mediante `cartCount`.
+
+Dentro se muestran varias secciones:
+
+- `HeroSection`: presentación de la página.
+- `MapSection`: zona o mapa de reservas.
+- `SelectionSection`: elementos seleccionados.
+- `FiltersSection`: filtros disponibles.
+
+En resumen, `ReservationPage` organiza la página y conecta la lógica de reservas con los componentes visuales.
+
 Flujo de Usuario (UX):
 El usuario explora el festival a través del mapa y utiliza los filtros para buscar opciones (ej. colas más rápidas). Al seleccionar un punto en el mapa, el panel de detalles revela información crítica, siendo el tiempo de espera estimado el dato clave para minimizar los tiempos muertos y optimizar su experiencia.
