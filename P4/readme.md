@@ -15,6 +15,7 @@
 ###Página de Colas Interactivas
 Esta vista facilita la toma de decisiones en tiempo real dentro del recinto. El componente App.jsx actúa como orquestador principal, manteniendo los componentes visuales limpios y desacoplados.
 
+```jsx
 import { Header } from './components/Header';
 import { FiltersSidebar } from './components/FiltersSidebar';
 import { MapView } from './components/MapView';
@@ -39,7 +40,6 @@ export default function App() {
     </div>
   );
 }
-
 
 Arquitectura:
 
