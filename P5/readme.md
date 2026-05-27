@@ -28,6 +28,12 @@
 
 ## Resultados Eye Tracking
 - Persona id 1:
+<img width="1920" height="3525" alt="image" src="https://github.com/user-attachments/assets/962ecf4e-6006-42b7-a395-29a980d07787" />
+<img width="1920" height="1471" alt="image" src="https://github.com/user-attachments/assets/4643dcbe-a7a1-4b5c-8c33-0720a10a2dc3" />
+<img width="1920" height="1893" alt="image" src="https://github.com/user-attachments/assets/b1a95d0e-c9a3-4d8d-8a1f-8d6ab71fff8c" />
+<img width="1920" height="3332" alt="image" src="https://github.com/user-attachments/assets/43289540-7232-4767-8751-b6cb9e088ccb" />
+
+  
 - Persona id 2:
 - Persona id 9:
 
