@@ -16,3 +16,14 @@
 | 9  | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                         |No                                                  |diseñador     |
 | 10 | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                          |No                                                  |diseñador     |
 
+
+# Tareas Eye Tracking
+
+1. Ver la carta
+2. Obtener informacion del negocio / empresa
+3. Pedir un ramen
+4. Pedir un plato sin gluten
+5. Informarme de las ubicaciones
+6. Hacer una reserva
+
+
