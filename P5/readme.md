@@ -26,4 +26,9 @@
 5. Informarme de las ubicaciones
 6. Hacer una reserva
 
+## Resultados Eye Tracking
+- Persona id 1:
+- Persona id 2:
+- Persona id 9:
+
 
