@@ -3,16 +3,16 @@
 # Personas
 
 
-| ID | Edad | Género | Nivel de competencia digital |
-|----|------|--------|------------------------------|
-| 1  | 20   | hombre |   avanzada                   |
-| 2  |  21  | hombre | avanzada                     |
-| 3  |   21 |hombre  |avanzada                      |
-| 4  |    19| hombre | avanzada                     |
-| 5  |    22|  mujer | media                        |
-| 6  |    45|  mujer | baja                         |
-| 7  |    24|  mujer | naja                         |
-| 8  |    50| hombre | medio                        |
-| 9  |    22| hombre       | avanzada               |
-| 10 |    22| hombre |     avanzada                 |
+| ID | Edad | Género | Nivel de competencia digital | Usa gafas/lentillas | Condiciones de iluminación | Dispositivo y resolución | Conocimiento previo sobre la app/estudio | ¿Ha participado antes en pruebas de usabilidad? | Rol |
+|----|------|--------|------------------------------|---------------------|----------------------------|---------------------------|------------------------------------------|--------------------------------------------------|-----|
+| 1  | 20   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
+| 2  | 21   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
+| 3  | 21   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
+| 4  | 19   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
+| 5  | 22   | Mujer  | Media                        |                     |                            |                           |                                          |                                                  |     |
+| 6  | 45   | Mujer  | Baja                         |                     |                            |                           |                                          |                                                  |     |
+| 7  | 24   | Mujer  | Baja                         |                     |                            |                           |                                          |                                                  |     |
+| 8  | 50   | Hombre | Media                        |                     |                            |                           |                                          |                                                  |     |
+| 9  | 22   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
+| 10 | 22   | Hombre | Avanzada                     |                     |                            |                           |                                          |                                                  |     |
 
