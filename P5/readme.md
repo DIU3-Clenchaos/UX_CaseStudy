@@ -16,16 +16,6 @@
 | 9  | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                         |No                                                  |diseñador     |
 | 10 | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                          |No                                                  |diseñador     |
 
-
-# Tareas Eye Tracking
-
-1. Ver la carta
-2. Obtener informacion del negocio / empresa
-3. Pedir un ramen
-4. Pedir un plato sin gluten
-5. Informarme de las ubicaciones
-6. Hacer una reserva
-
 ## Resultados Eye Tracking
 - Persona id 1:
 <img width="1920" height="3525" alt="image" src="https://github.com/user-attachments/assets/962ecf4e-6006-42b7-a395-29a980d07787" />
@@ -47,3 +37,8 @@
 - Persona id 9:
 
 
+
+# Tareas
+
+1. Pedir un plato sin gluten
+2. Hacer una reserva
