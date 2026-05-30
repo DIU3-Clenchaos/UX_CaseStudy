@@ -83,3 +83,315 @@ Desglosando los resultados por pregunta para extraer áreas de mejora claras del
 * **Baja intención de uso (Q1):** Es la métrica más penalizada. Los usuarios no sintieron deseo de utilizar el sistema de forma frecuente.
 * **Inconsistencia Visual (Q6):** Los usuarios detectaron un nivel alto de inconsistencia en la interfaz, lo que probablemente generó confusión durante la navegación.
 * **Punto fuerte (Q2):** Pese a los problemas de ejecución, la curva de complejidad innecesaria se mantuvo relativamente positiva. Esto sugiere que el modelo mental del usuario encaja con la idea base del equipo, pero falla en la disposición técnica de los elementos.
+
+* # 5. Evaluación de Accesibilidad
+
+## 5.1. Objetivo del análisis
+
+El objetivo de esta evaluación es realizar un estudio de accesibilidad del **caso B**, teniendo en cuenta tanto el cumplimiento técnico del diseño como su relación con la normativa de accesibilidad web.
+
+El análisis se basa en las **WCAG** (*Web Content Accessibility Guidelines*), que son las pautas de referencia para evaluar la accesibilidad de una interfaz web. Estas pautas se organizan en cuatro principios principales:
+
+* **Perceptible**
+* **Operable**
+* **Comprensible**
+* **Robusto**
+
+Como nivel de conformidad se toma como referencia el nivel **AA**, que suele ser el estándar recomendado para sitios públicos, servicios digitales y páginas web profesionales. También se tiene en cuenta la norma **UNE-EN 301549**, relacionada con los requisitos de accesibilidad para productos y servicios TIC.
+
+En este caso, al tratarse de un prototipo realizado en Figma, la evaluación debe entenderse como una **revisión preliminar de accesibilidad**. La comprobación definitiva debería realizarse cuando el diseño esté implementado como una página web real.
+
+---
+
+## 5.2. Herramientas de evaluación utilizadas
+
+Para realizar el análisis de accesibilidad se han considerado herramientas automáticas habituales en este tipo de informes:
+
+| Herramienta    | Uso principal                                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lighthouse** | Permite obtener una puntuación rápida de accesibilidad, rendimiento, buenas prácticas y SEO desde el navegador Google Chrome.                           |
+| **WAVE**       | Permite detectar errores visuales de accesibilidad, problemas de contraste, falta de textos alternativos, estructura incorrecta y otros fallos comunes. |
+
+Estas herramientas son útiles para detectar problemas técnicos, aunque no sustituyen por completo una revisión manual. Hay aspectos como la claridad del lenguaje, la facilidad de uso o la experiencia de navegación que también deben comprobarse de forma manual.
+
+---
+
+## 5.3. Resultados del análisis por categorías WCAG
+
+---
+
+# A. Perceptible
+
+El principio **perceptible** indica que la información y los elementos de la interfaz deben poder ser percibidos correctamente por todos los usuarios, incluyendo personas con baja visión, daltonismo o dificultades visuales.
+
+---
+
+## Resultado 1: Posible falta de contraste en botones y textos secundarios
+
+**Error detectado:**
+En algunas zonas de la interfaz pueden aparecer textos sobre fondos claros, tarjetas visuales o botones con colores suaves. Esto puede provocar que el contraste entre el texto y el fondo no sea suficiente.
+
+**Criterio WCAG incumplido:**
+**1.4.3 - Contraste mínimo**
+
+**Impacto:**
+Los usuarios con baja visión, daltonismo o que utilicen pantallas con mala iluminación pueden tener dificultades para leer el contenido o identificar acciones importantes, como botones de reserva, selección o confirmación.
+
+**Recomendación de mejora:**
+Aumentar el contraste entre el texto y el fondo. Se recomienda usar colores más oscuros para el texto y comprobar el contraste con herramientas como WAVE o Lighthouse. Por ejemplo, evitar texto gris claro sobre fondo blanco y utilizar negro o tonos oscuros.
+
+---
+
+## Resultado 2: Imágenes e iconos sin alternativa textual definida
+
+**Error detectado:**
+En una interfaz con imágenes, iconos, mapas o botones visuales, es necesario que estos elementos tengan una descripción textual cuando aporten información importante. En el prototipo de Figma no se puede comprobar directamente si las imágenes tendrán atributo `alt` o si los iconos tendrán una etiqueta accesible.
+
+**Criterio WCAG incumplido:**
+**1.1.1 - Contenido no textual**
+
+**Impacto:**
+Los usuarios que utilizan lectores de pantalla podrían no comprender la función de una imagen, icono o botón si no existe un texto alternativo que explique su significado.
+
+**Recomendación de mejora:**
+Cuando se implemente el diseño en HTML, se deben añadir textos alternativos en imágenes informativas y etiquetas accesibles en botones con iconos.
+
+Ejemplo:
+
+```html
+<img src="zona-reserva.jpg" alt="Imagen de una zona disponible para reserva">
+
+<button aria-label="Abrir menú de navegación">
+  ☰
+</button>
+```
+
+Si la imagen es únicamente decorativa, debería marcarse como decorativa para que no interfiera con los lectores de pantalla.
+
+---
+
+# B. Operable
+
+El principio **operable** indica que la interfaz debe poder utilizarse correctamente con diferentes métodos de entrada. No debe depender únicamente del ratón, sino que también debe ser accesible mediante teclado y tecnologías asistivas.
+
+---
+
+## Resultado 3: Navegación por teclado no garantizada
+
+**Error detectado:**
+El prototipo contiene varias zonas interactivas, como navegación, botones, filtros, tarjetas o elementos de selección. Es necesario comprobar que todos estos elementos puedan recorrerse usando la tecla `Tab` y activarse con teclado.
+
+**Criterio WCAG incumplido:**
+**2.1.1 - Teclado**
+**2.4.7 - Foco visible**
+
+**Impacto:**
+Una persona que no pueda usar ratón podría tener dificultades para navegar por la página, seleccionar opciones o completar una reserva si los elementos interactivos no son accesibles mediante teclado.
+
+**Recomendación de mejora:**
+Todos los botones, enlaces, filtros y campos deben ser accesibles con teclado. Además, el foco debe ser claramente visible para que el usuario sepa en qué elemento se encuentra.
+
+Ejemplo:
+
+```css
+button:focus,
+a:focus,
+input:focus,
+select:focus {
+  outline: 3px solid #005FCC;
+  outline-offset: 3px;
+}
+```
+
+---
+
+## Resultado 4: Interacciones visuales que pueden depender demasiado del ratón
+
+**Error detectado:**
+Si la interfaz incluye un mapa, zonas seleccionables o tarjetas visuales, puede existir un problema si la interacción solo se puede realizar haciendo clic con el ratón.
+
+**Criterio WCAG incumplido:**
+**2.1.1 - Teclado**
+
+**Impacto:**
+Los usuarios que navegan con teclado, lectores de pantalla o dispositivos adaptados podrían no poder seleccionar una zona o completar una acción si no existe una alternativa accesible.
+
+**Recomendación de mejora:**
+Ofrecer una alternativa textual o mediante formulario para las zonas visuales. Por ejemplo, si existe un mapa interactivo, también debería existir un listado o desplegable con las mismas opciones.
+
+Ejemplo:
+
+```html
+<label for="zona">Selecciona una zona disponible:</label>
+
+<select id="zona" name="zona">
+  <option value="zona-a">Zona A</option>
+  <option value="zona-b">Zona B</option>
+  <option value="zona-c">Zona C</option>
+</select>
+```
+
+---
+
+# C. Comprensible
+
+El principio **comprensible** indica que la información debe presentarse de forma clara, coherente y fácil de entender. También afecta a formularios, mensajes de error, instrucciones y navegación.
+
+---
+
+## Resultado 5: Formularios o filtros con etiquetas poco claras
+
+**Error detectado:**
+En las zonas de reserva, selección o filtrado, los campos deben tener etiquetas claras. Si solo se usan placeholders o textos breves, el usuario puede no entender exactamente qué debe introducir o seleccionar.
+
+**Criterio WCAG incumplido:**
+**3.3.2 - Etiquetas o instrucciones**
+
+**Impacto:**
+Los usuarios con menos experiencia digital o con dificultades cognitivas pueden tener problemas para completar correctamente el formulario o entender qué información se solicita.
+
+**Recomendación de mejora:**
+Añadir etiquetas visibles y descriptivas a todos los campos. No se debería depender únicamente del placeholder como explicación.
+
+Ejemplo:
+
+```html
+<label for="fecha">Fecha de la reserva</label>
+<input id="fecha" type="date" name="fecha">
+
+<label for="personas">Número de personas</label>
+<input id="personas" type="number" name="personas" min="1">
+```
+
+---
+
+## Resultado 6: Mensajes de error poco específicos
+
+**Error detectado:**
+Si el usuario no completa correctamente un formulario, el sistema debe mostrar un mensaje claro indicando qué campo está mal y cómo corregirlo. Un mensaje genérico como “Error” no sería suficiente.
+
+**Criterio WCAG incumplido:**
+**3.3.1 - Identificación de errores**
+
+**Impacto:**
+El usuario puede no saber qué debe corregir, lo que puede provocar frustración o abandono de la tarea.
+
+**Recomendación de mejora:**
+Mostrar mensajes de error concretos junto al campo correspondiente.
+
+Ejemplo:
+
+```html
+<label for="fecha">Fecha de la reserva</label>
+<input id="fecha" type="date" name="fecha" aria-describedby="error-fecha">
+
+<p id="error-fecha">
+  Debes seleccionar una fecha para continuar.
+</p>
+```
+
+---
+
+# D. Robusto
+
+El principio **robusto** indica que el contenido debe estar correctamente construido para que pueda ser interpretado por navegadores, lectores de pantalla y otras tecnologías asistivas.
+
+---
+
+## Resultado 7: Necesidad de estructura HTML semántica
+
+**Error detectado:**
+Al convertir el prototipo de Figma en una página web real, existe el riesgo de construir la interfaz usando demasiados elementos genéricos como `div`, sin estructura semántica clara.
+
+**Criterio WCAG incumplido:**
+**4.1.2 - Nombre, función y valor**
+
+**Impacto:**
+Los lectores de pantalla podrían no interpretar correctamente la estructura de la página, los botones, los formularios o las secciones principales.
+
+**Recomendación de mejora:**
+Usar etiquetas HTML semánticas como `header`, `nav`, `main`, `section`, `footer`, `button`, `label`, `input` y `select`.
+
+Ejemplo:
+
+```html
+<header>
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#reservas">Reservas</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+</header>
+
+<main>
+  <section aria-labelledby="titulo-reserva">
+    <h1 id="titulo-reserva">Reserva tu espacio</h1>
+    <p>Selecciona una zona disponible y completa los datos de la reserva.</p>
+  </section>
+</main>
+```
+
+---
+
+## Resultado 8: Idioma de la página no definido
+
+**Error detectado:**
+Cuando se implemente la página, debe indicarse correctamente el idioma principal del documento.
+
+**Criterio WCAG incumplido:**
+**3.1.1 - Idioma de la página**
+
+**Impacto:**
+Los lectores de pantalla pueden pronunciar incorrectamente el contenido si no saben que la página está en español.
+
+**Recomendación de mejora:**
+Definir el idioma principal en la etiqueta HTML.
+
+Ejemplo:
+
+```html
+<html lang="es">
+```
+
+---
+
+## 5.4. Resumen de errores detectados
+
+| Categoría    | Error detectado                                                | Criterio WCAG                          | Impacto                                                                   | Recomendación                                  |
+| ------------ | -------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------- |
+| Perceptible  | Posible contraste insuficiente en botones o textos secundarios | 1.4.3 - Contraste mínimo               | Dificulta la lectura a usuarios con baja visión                           | Aumentar contraste entre texto y fondo         |
+| Perceptible  | Imágenes o iconos sin alternativa textual                      | 1.1.1 - Contenido no textual           | Los lectores de pantalla no interpretan correctamente el contenido visual | Añadir `alt` o `aria-label`                    |
+| Operable     | Navegación por teclado no garantizada                          | 2.1.1 - Teclado / 2.4.7 - Foco visible | Usuarios sin ratón pueden no completar acciones                           | Permitir navegación con `Tab` y foco visible   |
+| Operable     | Interacciones visuales dependientes del ratón                  | 2.1.1 - Teclado                        | Dificulta el uso con teclado o tecnologías asistivas                      | Añadir alternativas como listas o desplegables |
+| Comprensible | Formularios o filtros con etiquetas poco claras                | 3.3.2 - Etiquetas o instrucciones      | Puede generar confusión al usuario                                        | Añadir etiquetas visibles y claras             |
+| Comprensible | Mensajes de error poco específicos                             | 3.3.1 - Identificación de errores      | El usuario no sabe cómo corregir el error                                 | Mostrar errores concretos junto al campo       |
+| Robusto      | Falta de estructura HTML semántica                             | 4.1.2 - Nombre, función y valor        | Dificulta el uso con lectores de pantalla                                 | Usar etiquetas HTML semánticas                 |
+| Robusto      | Idioma de la página no definido                                | 3.1.1 - Idioma de la página            | Lectura incorrecta por lectores de pantalla                               | Usar `<html lang="es">`                        |
+
+---
+
+## 5.5. Valoración general de accesibilidad
+
+La accesibilidad general del caso B puede considerarse **media**. El prototipo presenta una estructura visual clara y organizada, pero todavía necesita mejoras para garantizar un cumplimiento adecuado del nivel **WCAG AA**.
+
+Los aspectos más importantes que deben revisarse son:
+
+* Contraste suficiente entre texto y fondo.
+* Navegación completa mediante teclado.
+* Foco visible en botones, enlaces y formularios.
+* Textos alternativos para imágenes e iconos.
+* Etiquetas claras en formularios y filtros.
+* Mensajes de error comprensibles.
+* Uso de HTML semántico en la implementación final.
+* Definición correcta del idioma de la página.
+
+---
+
+## 5.6. Conclusión
+
+El caso B tiene una buena base visual, pero para alcanzar una accesibilidad adecuada debe reforzar varios aspectos técnicos y de diseño. Las mejoras prioritarias son aumentar el contraste de los elementos visuales, asegurar que toda la interfaz sea operable mediante teclado, añadir alternativas textuales a imágenes e iconos y construir la versión final con HTML semántico.
+
+También es importante que los formularios y filtros sean claros, que los mensajes de error indiquen exactamente qué debe corregirse y que el idioma de la página esté definido correctamente.
+
+En conclusión, el prototipo podría alcanzar un nivel de conformidad **WCAG AA** si se aplican las recomendaciones indicadas. La evaluación definitiva debería realizarse cuando el prototipo esté convertido en una página web funcional, utilizando herramientas como **Lighthouse** y **WAVE** para comprobar los errores técnicos reales.
+
