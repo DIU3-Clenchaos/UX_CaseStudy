@@ -47,3 +47,39 @@
 
 1. Pedir un plato sin gluten
 2. Hacer una reserva
+
+## 📊 Resultados del Cuestionario SUS (Datos Cuantitativos)
+
+Para medir la percepción subjetiva de usabilidad, se ha administrado el cuestionario estándar SUS (System Usability Scale) a una muestra de 10 usuarios. El estudio se ha planteado mediante un modelo A/B Testing (*Between-Subjects*), donde 5 usuarios evaluaron el Diseño A (nuestra propuesta) y 5 evaluaron el Diseño B (el prototipo asignado para auditoría).
+
+Los datos han sido procesados mediante un análisis multivariable.
+
+### 3.1. Puntuación Global (SUS Score)
+
+<img width="765" height="783" alt="image" src="https://github.com/user-attachments/assets/ad9bffea-a08d-42f3-a180-c28c6dbc343d" />
+
+
+La comparativa muestra una diferencia significativa en la percepción de los usuarios:
+* **Diseño A:** Alcanza una puntuación media de **91.5/100**, lo que indica un sistema altamente intuitivo y libre de fricciones.
+* **Diseño B:** Obtiene una puntuación de **60/100**, situándose por debajo de la media estándar de la industria (68). Esto denota que, aunque funcional, el sistema presenta barreras de usabilidad que deben ser corregidas.
+
+### 3.2. Curva de Percentiles e Interpretación
+
+<img width="761" height="776" alt="image" src="https://github.com/user-attachments/assets/888bbbd5-8274-4694-9c76-5d6d8340aea6" />
+
+
+Al trasladar estos resultados a la curva de percentiles y la escala de grados (Adjetivos de Bangor):
+* El Diseño A se sitúa en el percentil 99 (**Grado A - Best Imaginable**).
+* El Diseño B se sitúa en el percentil 27 (**Grado D - Marginal / OK**). 
+Además, destaca la alta **Desviación Estándar (25.12)** en el Diseño B, lo que indica que la experiencia fue muy irregular entre los distintos participantes (algunos lo encontraron aceptable, mientras que para otros resultó frustrante).
+
+### 3.3. Análisis Detallado (Per Item Chart) centrado en Diseño B
+
+<img width="764" height="802" alt="image" src="https://github.com/user-attachments/assets/96f0c241-108e-41c5-94fb-23b8d996d43e" />
+
+
+Desglosando los resultados por pregunta para extraer áreas de mejora claras del Diseño B, destacamos los siguientes *insights*:
+
+* **Baja intención de uso (Q1):** Es la métrica más penalizada. Los usuarios no sintieron deseo de utilizar el sistema de forma frecuente.
+* **Inconsistencia Visual (Q6):** Los usuarios detectaron un nivel alto de inconsistencia en la interfaz, lo que probablemente generó confusión durante la navegación.
+* **Punto fuerte (Q2):** Pese a los problemas de ejecución, la curva de complejidad innecesaria se mantuvo relativamente positiva. Esto sugiere que el modelo mental del usuario encaja con la idea base del equipo, pero falla en la disposición técnica de los elementos.
