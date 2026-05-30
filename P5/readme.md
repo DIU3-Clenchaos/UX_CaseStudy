@@ -359,13 +359,15 @@ Ejemplo:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
 
-### Evaluación de usabilidad del proyecto [NOMBRE PROYECTO B]
+### Evaluación de usabilidad del proyecto Ramen Shifu (Equipo JDMA)
 
 **Fecha:** Mayo 2026
 
-**[img Proyecto]** *(Añadir captura de pantalla general de la Home del Diseño B)*
+**[img Proyecto]**
+<img width="1440" height="1275" alt="image" src="https://github.com/user-attachments/assets/8e3f487d-800e-495e-97c9-65026dcef700" />
 
-**Enlace a GITHUB del proyecto:** [Enlace al repo del equipo evaluado]
+
+**Enlace a GITHUB del proyecto:** https://github.com/Garromo14/DIU1.JMDA
 
 ### Realizado por:  
 **Equipo:** DIU3 Clenchaos
