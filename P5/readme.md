@@ -35,6 +35,11 @@
 
   
 - Persona id 9:
+<img width="1920" height="3525" alt="image" src="https://github.com/user-attachments/assets/021db998-e558-4934-b368-af6c2364cb6f" />
+<img width="1920" height="1471" alt="image" src="https://github.com/user-attachments/assets/dfec5a9d-c0a3-4aa9-b4ee-5185a877d32f" />
+<img width="1920" height="1893" alt="image" src="https://github.com/user-attachments/assets/cfbcd6e3-8a4a-4d86-9dc3-5466793d7532" />
+<img width="1920" height="3332" alt="image" src="https://github.com/user-attachments/assets/29d2923a-3d5f-4ea8-8d63-2ad9f0903d5c" />
+
 
 
 
