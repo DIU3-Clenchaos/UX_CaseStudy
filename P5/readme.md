@@ -395,23 +395,15 @@ Ejemplo:
 
 ---
 
-## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-*(Pegar aquí todo el bloque 3 que redactamos antes, incluyendo los tiempos de las tareas, la gráfica del A/B Testing, la curva de percentiles y el gráfico de barras por ítems, con su correspondiente explicación).*
-
----
-
-## 4. Análisis de Eye Tracking (Datos Biométricos)
-
-*(Pegar aquí las capturas de pantalla de los Heatmaps de las personas 1, 2 y 9 que pasaste anteriormente, y añadir este texto debajo de las imágenes para interpretarlas):*
-
+## 3. Análisis de Eye Tracking (Datos Biométricos)
 * **Heatmaps (Mapas de calor):** El seguimiento ocular revela que la atención del usuario es muy dispersa en el Diseño B. Mientras que en los diseños óptimos la vista va directa a los POI (Puntos de Interés como el botón principal o el tiempo de espera), aquí se observa un patrón de lectura en "F" invertida, denotando que el usuario escanea activamente la pantalla buscando dónde hacer clic.
 * **Zonas de Silencio:** El área superior derecha (donde suelen ubicarse los filtros secundarios y el acceso al perfil/carrito) presenta una carga térmica nula, indicando que el componente pasa completamente desapercibido.
 * **Hallazgo clave:** El 80% de la carga cognitiva visual recae sobre las imágenes de los productos, pero las llamadas a la acción (CTAs) para añadir al pedido no atraen la mirada de forma instintiva por falta de contraste o tamaño.
 
 ---
 
-## 5. Conclusiones y Recomendaciones (Actionable Insights)
+## 4. Conclusiones y Recomendaciones (Actionable Insights)
 
 Tras cruzar los datos de percepción subjetiva (SUS), las métricas de eficiencia (Tiempos) y las auditorías visuales y técnicas, se establecen las siguientes recomendaciones priorizadas para el equipo de diseño:
 
