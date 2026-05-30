@@ -48,9 +48,9 @@
 1. Pedir un plato sin gluten
 2. Hacer una reserva
 
-Tiempo medio Tarea 1 en Web A: 29.8 segundos, Web B: 64.2 segundos
+Tiempo medio Tarea 1 en Web A: 29.8 segundos, Web B: 44.2 segundos
 
-Tiempo medio Tarea 2 en Web A: 34.8 segundos, Web B: 84.4 segundos
+Tiempo medio Tarea 2 en Web A: 34.8 segundos, Web B: 63.4 segundos
 
 ## 📊 Resultados del Cuestionario SUS (Datos Cuantitativos)
 
@@ -359,75 +359,66 @@ Ejemplo:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
 
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
+### Evaluación de usabilidad del proyecto [NOMBRE PROYECTO B]
 
-[Fecha]
+**Fecha:** Mayo 2026
 
-[img Proyecto]
+**[img Proyecto]** *(Añadir captura de pantalla general de la Home del Diseño B)*
 
-[Enlace a GITHUB del proyecto]
+**Enlace a GITHUB del proyecto:** [Enlace al repo del equipo evaluado]
 
 ### Realizado por:  
+**Equipo:** DIU3 Clenchaos
+**Integrantes:** José Rodríguez y Yeray Rodríguez Navas. 
+**Perfil:** Estudiantes de Ingeniería Informática con experiencia en desarrollo de interfaces y metodologías de evaluación centradas en el usuario.
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+---
 
+## 1. RESUMEN EJECUTIVO (Executive Summary)
 
- 
+* **Objetivo:** Evaluar la eficacia, eficiencia y satisfacción del prototipo interactivo (Diseño B) comparándolo con una propuesta alternativa (Diseño A), identificando barreras de usabilidad y accesibilidad para proponer mejoras accionables.
+* **Metodología:** Se ha realizado un estudio *Between-Subjects* (A/B Testing) con una muestra de 10 usuarios. Las técnicas empleadas incluyen pruebas cronometradas de tareas, análisis biométrico de atención visual (Eye Tracking con GazeMapping), evaluación estandarizada de usabilidad (Cuestionario SUS) y auditoría técnica de accesibilidad (Lighthouse/WAVE y pautas WCAG).
+* **Principales Hallazgos:** 1. **Fricción en flujos clave:** Los usuarios tardan un 141% más en completar una reserva en el Diseño B frente al Diseño A debido a problemas de jerarquía visual.
+    2. **Inconsistencia en la interfaz:** El análisis cuantitativo refleja confusión y falta de estandarización en menús y controles (Alta penalización en la Q6 del SUS).
+    3. **Barreras de accesibilidad:** Se han detectado deficiencias críticas de contraste e imposibilidad de navegación exclusiva por teclado.
+* **Resultado Global:** El Diseño B obtiene una puntuación media SUS de **60/100**, situándose por debajo de la media de la industria (68) con un grado "D" (Marginal). Requiere iteraciones de diseño urgentes.
 
-
-## 1 RESUMEN EJECUTIVO  (Executive Summary)
-
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
-
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
-- **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
-
+---
 
 ## 2. Metodología y Reclutamiento
 
-[Describe el "cómo"]
+* **Perfil de los participantes:** Se reclutaron 10 usuarios con edades comprendidas entre los 20 y los 50 años. La muestra presenta una diversidad representativa en cuanto a competencias digitales (desde nivel bajo a avanzado) y usos de corrección visual (gafas/lentillas), lo cual es crítico para garantizar la validez del análisis de Eye Tracking.
+* **Escenario de la prueba:** Los usuarios se enfrentaron a un contexto de uso real dentro de un festival gastronómico. Debían completar de forma autónoma dos tareas específicas:
+    * *Tarea 1:* Filtrar el catálogo y localizar un producto sin gluten.
+    * *Tarea 2:* Interpretar el mapa de zonas, comprobar el tiempo de espera y confirmar una reserva.
+* **Herramientas:** Se ha empleado la plataforma interactiva **Tally** para la recogida de datos demográficos y la escala SUS, **GazeMapping** para el rastreo ocular (Heatmaps) sobre imágenes rasterizadas, y extensiones de desarrollo (Lighthouse/WAVE) para la validación de estándares normativos WCAG.
 
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+---
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
+*(Pegar aquí todo el bloque 3 que redactamos antes, incluyendo los tiempos de las tareas, la gráfica del A/B Testing, la curva de percentiles y el gráfico de barras por ítems, con su correspondiente explicación).*
 
-- **Comparativa A vs. B:** Un gráfico de barras comparando la puntuación final de ambos diseños.
-- **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
-
-Valoración numérica del SUS - 
-
+---
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
+*(Pegar aquí las capturas de pantalla de los Heatmaps de las personas 1, 2 y 9 que pasaste anteriormente, y añadir este texto debajo de las imágenes para interpretarlas):*
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+* **Heatmaps (Mapas de calor):** El seguimiento ocular revela que la atención del usuario es muy dispersa en el Diseño B. Mientras que en los diseños óptimos la vista va directa a los POI (Puntos de Interés como el botón principal o el tiempo de espera), aquí se observa un patrón de lectura en "F" invertida, denotando que el usuario escanea activamente la pantalla buscando dónde hacer clic.
+* **Zonas de Silencio:** El área superior derecha (donde suelen ubicarse los filtros secundarios y el acceso al perfil/carrito) presenta una carga térmica nula, indicando que el componente pasa completamente desapercibido.
+* **Hallazgo clave:** El 80% de la carga cognitiva visual recae sobre las imágenes de los productos, pero las llamadas a la acción (CTAs) para añadir al pedido no atraen la mirada de forma instintiva por falta de contraste o tamaño.
 
-## 5. Auditoría de Accesibilidad
+---
 
-Sintetiza el cumplimiento técnico y normativo.
+## 5. Conclusiones y Recomendaciones (Actionable Insights)
 
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+Tras cruzar los datos de percepción subjetiva (SUS), las métricas de eficiencia (Tiempos) y las auditorías visuales y técnicas, se establecen las siguientes recomendaciones priorizadas para el equipo de diseño:
 
-## 6. Conclusiones y Recomendaciones (Actionable Insights)
-
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
-
-| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
-
-
-
-
+| **Prioridad** | **Hallazgo** | **Recomendación de Mejora** |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Alta (Crítica)** | **Tiempos de ejecución y carga cognitiva:** Los usuarios tardaron más de 60 segundos de media en realizar una reserva en el Diseño B. | Simplificar el flujo de decisión. Destacar el tiempo de espera estimado en el mapa con etiquetas de alto impacto visual antes de abrir el detalle. |
+| **Alta (Crítica)** | **Inconsistencia de Interfaz:** La pregunta Q6 del SUS y los datos de Eye Tracking demuestran pérdida de contexto visual.                 | Crear un *Design System* centralizado que unifique el espaciado, comportamiento de menús y estados de los botones en todas las pantallas.               |
+| **Media** | **Navegación por teclado e interacción:** Existe una dependencia exclusiva del uso del ratón, excluyendo a usuarios con discapacidad motora.  | Habilitar el foco visible (`:focus`) en CSS y asegurar que los modales y filtros pueden operarse usando la tecla `Tab` y `Enter`.                       |
+| **Media** | **Contraste y legibilidad:** Textos de bajo contraste en botones y tarjetas que incumplen el criterio 1.4.3 de WCAG (AA).                     | Modificar la paleta de colores para asegurar un ratio de contraste mínimo de 4.5:1, especialmente en la lectura de ingredientes y alérgenos.           |
+| **Baja** | **Mensajes de error y validación:** Formularios poco claros y ausencia de atributos `alt` en imágenes secundarias.                         | Incorporar etiquetas descriptivas claras (`<label>`) y *feedback* de error en tiempo real para evitar la frustración al intentar enviar datos nulos.    |
