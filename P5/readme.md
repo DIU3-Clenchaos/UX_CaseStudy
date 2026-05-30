@@ -265,32 +265,10 @@ Ejemplo:
 
 ---
 
-## Resultado 6: Mensajes de error poco específicos
+## Resultado 6: Formulario
 
 **Error detectado:**
-Si el usuario no completa correctamente un formulario, el sistema debe mostrar un mensaje claro indicando qué campo está mal y cómo corregirlo. Un mensaje genérico como “Error” no sería suficiente.
-
-**Criterio WCAG incumplido:**
-**3.3.1 - Identificación de errores**
-
-**Impacto:**
-El usuario puede no saber qué debe corregir, lo que puede provocar frustración o abandono de la tarea.
-
-**Recomendación de mejora:**
-Mostrar mensajes de error concretos junto al campo correspondiente.
-
-Ejemplo:
-
-```html
-<label for="fecha">Fecha de la reserva</label>
-<input id="fecha" type="date" name="fecha" aria-describedby="error-fecha">
-
-<p id="error-fecha">
-  Debes seleccionar una fecha para continuar.
-</p>
-```
-
----
+El formulario de las reservas no es funcional
 
 # D. Robusto
 
