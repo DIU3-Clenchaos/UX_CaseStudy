@@ -48,6 +48,10 @@
 1. Pedir un plato sin gluten
 2. Hacer una reserva
 
+Tiempo medio Tarea 1 en Web A: 29.8 segundos, Web B: 64.2 segundos
+
+Tiempo medio Tarea 2 en Web A: 34.8 segundos, Web B: 84.4 segundos
+
 ## 📊 Resultados del Cuestionario SUS (Datos Cuantitativos)
 
 Para medir la percepción subjetiva de usabilidad, se ha administrado el cuestionario estándar SUS (System Usability Scale) a una muestra de 10 usuarios. El estudio se ha planteado mediante un modelo A/B Testing (*Between-Subjects*), donde 5 usuarios evaluaron el Diseño A (nuestra propuesta) y 5 evaluaron el Diseño B (el prototipo asignado para auditoría).
