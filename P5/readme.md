@@ -370,28 +370,4 @@ Ejemplo:
 
 ---
 
-## 5.5. Valoración general de accesibilidad
-
-La accesibilidad general del caso B puede considerarse **media**. El prototipo presenta una estructura visual clara y organizada, pero todavía necesita mejoras para garantizar un cumplimiento adecuado del nivel **WCAG AA**.
-
-Los aspectos más importantes que deben revisarse son:
-
-* Contraste suficiente entre texto y fondo.
-* Navegación completa mediante teclado.
-* Foco visible en botones, enlaces y formularios.
-* Textos alternativos para imágenes e iconos.
-* Etiquetas claras en formularios y filtros.
-* Mensajes de error comprensibles.
-* Uso de HTML semántico en la implementación final.
-* Definición correcta del idioma de la página.
-
----
-
-## 5.6. Conclusión
-
-El caso B tiene una buena base visual, pero para alcanzar una accesibilidad adecuada debe reforzar varios aspectos técnicos y de diseño. Las mejoras prioritarias son aumentar el contraste de los elementos visuales, asegurar que toda la interfaz sea operable mediante teclado, añadir alternativas textuales a imágenes e iconos y construir la versión final con HTML semántico.
-
-También es importante que los formularios y filtros sean claros, que los mensajes de error indiquen exactamente qué debe corregirse y que el idioma de la página esté definido correctamente.
-
-En conclusión, el prototipo podría alcanzar un nivel de conformidad **WCAG AA** si se aplican las recomendaciones indicadas. La evaluación definitiva debería realizarse cuando el prototipo esté convertido en una página web funcional, utilizando herramientas como **Lighthouse** y **WAVE** para comprobar los errores técnicos reales.
 
