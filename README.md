@@ -324,6 +324,19 @@ Con este rediseño se espera que la web no solo sea más atractiva, sino tambié
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 
+| ID | Edad | Género | Nivel de competencia digital | Usa gafas/lentillas | Condiciones de iluminación | Dispositivo y resolución | Conocimiento previo sobre la app/estudio | ¿Ha participado antes en pruebas de usabilidad? | Rol |
+|----|------|--------|------------------------------|---------------------|----------------------------|---------------------------|------------------------------------------|--------------------------------------------------|-----|
+| 1  | 20   | Hombre | Avanzada                     |         lentillas   |                            |ordenador                  |maximo                                    |No                                                |desarrollador|
+| 2  | 21   | Hombre | Avanzada                     |gafas                |                            |                           |maximo                                          | No                                                  |desarrollador     |
+| 3  | 21   | Hombre | Avanzada                     |  gafas                   |                            |ordenador                           |nulo                                          |No                                                  |usuario final     |
+| 4  | 20   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                          |No                                                  |usuario final     |
+| 5  | 23   | Hombre  | Alta                        |No                     |                            |ordenador                           |nulo                                          |No                                                  |usuario final     |
+| 6  | 45   | Mujer  | Baja                         |gafas                     |                            |ordenador                           |nulo                                          |No                                                  |usuario final     |
+| 7  | 24   | Mujer  | Baja                         |No                     |                            |ordenador                           |nulo                                          |No                                                  |usuario final     |
+| 8  | 50   | Hombre | Media                        |gafas                     |                            |ordenador                           |nulo                                          |No                                                  |usuario final     |
+| 9  | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                         |No                                                  |diseñador     |
+| 10 | 22   | Hombre | Avanzada                     |No                     |                            |ordenador                           |medio                                          |No                                                  |diseñador     |
+
 -----
 
 El **Caso-B** corresponde al proyecto **Remake Champions Burger**, cuyo objetivo es rediseñar la web del evento The Champions Burger para mejorar la navegación, la búsqueda de información, la claridad visual y la experiencia de usuario tanto en versión web como móvil.
@@ -342,25 +355,62 @@ Repositorio GitHub: [Añadir aquí enlace al repositorio]
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+1. Pedir un plato sin gluten
+2. Hacer una reserva
 
+Tiempo medio Tarea 1 en Web A: 29.8 segundos, Web B: 44.2 segundos
+
+Tiempo medio Tarea 2 en Web A: 34.8 segundos, Web B: 63.4 segundos
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Para medir la percepción subjetiva de usabilidad, se ha administrado el cuestionario estándar SUS (System Usability Scale) a una muestra de 10 usuarios. El estudio se ha planteado mediante un modelo A/B Testing (*Between-Subjects*), donde 5 usuarios evaluaron el Diseño A (nuestra propuesta) y 5 evaluaron el Diseño B (el prototipo asignado para auditoría).
+
+Los datos han sido procesados mediante un análisis multivariable.
+
+### 3.1. Puntuación Global (SUS Score)
+
+<img width="765" height="783" alt="image" src="https://github.com/user-attachments/assets/ad9bffea-a08d-42f3-a180-c28c6dbc343d" />
+
+
+La comparativa muestra una diferencia significativa en la percepción de los usuarios:
+* **Diseño A:** Alcanza una puntuación media de **91.5/100**, lo que indica un sistema altamente intuitivo y libre de fricciones.
+* **Diseño B:** Obtiene una puntuación de **60/100**, situándose por debajo de la media estándar de la industria (68). Esto denota que, aunque funcional, el sistema presenta barreras de usabilidad que deben ser corregidas.
+
+### 3.2. Curva de Percentiles e Interpretación
+
+<img width="761" height="776" alt="image" src="https://github.com/user-attachments/assets/888bbbd5-8274-4694-9c76-5d6d8340aea6" />
+
+
+Al trasladar estos resultados a la curva de percentiles y la escala de grados (Adjetivos de Bangor):
+* El Diseño A se sitúa en el percentil 99 (**Grado A - Best Imaginable**).
+* El Diseño B se sitúa en el percentil 27 (**Grado D - Marginal / OK**). 
+Además, destaca la alta **Desviación Estándar (25.12)** en el Diseño B, lo que indica que la experiencia fue muy irregular entre los distintos participantes (algunos lo encontraron aceptable, mientras que para otros resultó frustrante).
+
+### 3.3. Análisis Detallado (Per Item Chart) centrado en Diseño B
+
+<img width="764" height="802" alt="image" src="https://github.com/user-attachments/assets/96f0c241-108e-41c5-94fb-23b8d996d43e" />
+
+
+Desglosando los resultados por pregunta para extraer áreas de mejora claras del Diseño B, destacamos los siguientes *insights*:
+
+* **Baja intención de uso (Q1):** Es la métrica más penalizada. Los usuarios no sintieron deseo de utilizar el sistema de forma frecuente.
+* **Inconsistencia Visual (Q6):** Los usuarios detectaron un nivel alto de inconsistencia en la interfaz, lo que probablemente generó confusión durante la navegación.
+* **Punto fuerte (Q2):** Pese a los problemas de ejecución, la curva de complejidad innecesaria se mantuvo relativamente positiva. Esto sugiere que el modelo mental del usuario encaja con la idea base del equipo, pero falla en la disposición técnica de los elementos.
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Tiempo medio Tarea 1 en Web A: 29.8 segundos, Web B: 44.2 segundos
+
+Tiempo medio Tarea 2 en Web A: 34.8 segundos, Web B: 63.4 segundos
+
+La web A ha obtenido mejores resultados y por tanto es más usable que la B
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
