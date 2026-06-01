@@ -339,16 +339,9 @@ Con este rediseño se espera que la web no solo sea más atractiva, sino tambié
 
 -----
 
-El **Caso-B** corresponde al proyecto **Remake Champions Burger**, cuyo objetivo es rediseñar la web del evento The Champions Burger para mejorar la navegación, la búsqueda de información, la claridad visual y la experiencia de usuario tanto en versión web como móvil.
+El **Caso-B** corresponde al proyecto **Ramen Shifu**, cuyo objetivo es rediseñar la web de la cadena de restaurantes para mejorar la navegación, la búsqueda de información, la claridad visual y la experiencia de usuario tanto en versión web como móvil.
 
-Repositorio GitHub: [Añadir aquí enlace al repositorio]
-
-| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
-| ------------- | -------- | ----------- | ----------- | ----------- | ---------- | ---- |
-| Alejandro Ruiz | H / 20 | Estudiante universitario | Media | Impaciente | Web | A |
-| Laura Medina | M / 22 | Estudiante | Alta | Analítica | Web | A |
-| Marta Sánchez | M / 35 | Administrativa | Baja | Práctica | Móvil | B |
-| Daniel Torres | H / 19 | Estudiante | Media | Curioso | Web | B |
+Repositorio GitHub: https://github.com/Garromo14/DIU1.JMDA
 
 
 ### 4.b Diseño de las pruebas 
