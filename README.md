@@ -450,11 +450,22 @@ La web A ha obtenido mejores resultados y por tanto es más usable que la B
 
 <br>
 
-## Conclusiones finales & Valoración de las prácticas
+## Conclusión Final y Valoración del Proyecto
 
+### 1. Nuestro recorrido: De la idea a la validación real
+A lo largo de estas semanas, desarrollar la plataforma para *The Champions Burger* nos ha demostrado que el diseño de interfaces no va solo de hacer pantallas bonitas, sino de crear un producto digital que realmente le resuelva problemas al usuario. En este proyecto hemos tocado todas las fases:
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+* **Ideación y Arquitectura:** Partimos de un problema real (las colas interminables en los festivales) para estructurar nuestra solución. Pensar en la arquitectura y en cómo dividir la interfaz nos ayudó a montar una base sólida, escalando desde un simple botón hasta vistas complejas como el mapa interactivo o la carta de alérgenos.
+* **Implementación Técnica:** Hemos intentado mantener el código limpio y ordenado, separando la lógica de estado de la parte visual (como hicimos aislando los *Hooks* y los proveedores de contexto), entendiendo que un buen diseño necesita un código mantenible por detrás.
+* **Investigación y Evaluación (UX Research):** Esta ha sido la verdadera prueba de fuego. Pasar de "suponer" cosas a ver cómo usuarios reales interactuaban con nuestro prototipo y con el Diseño B usando Eye Tracking y el cuestionario SUS ha sido súper revelador. Ver que nuestro diseño sacaba un **91.5/100** nos confirmó que la idea mental que teníamos encajaba perfectamente con lo que la gente espera.
+* **Accesibilidad:** La auditoría final con las normativas WCAG nos ha abierto los ojos sobre detalles que a veces como desarrolladores pasamos por alto (como los contrastes de color o la navegación por teclado), recordándonos que una buena web tiene que ser inclusiva y usable para todo el mundo.
 
+### 2. Valoración Global (Yeray y Jose)
+Haciendo balance de toda la práctica, nos llevamos un aprendizaje muy claro: te puedes currar el mejor código del mundo, pero si la experiencia de usuario falla y la gente no sabe dónde hacer clic para pedir su hamburguesa, el producto no sirve.
+
+Ha sido un proyecto bastante intenso y con mucha carga de documentación y análisis, pero estamos muy contentos con el resultado. Creemos que hemos conseguido encontrar el equilibrio perfecto entre lo técnico, lo visual y la usabilidad pura y dura, logrando un prototipo que no solo cumple con lo que pide la asignatura, sino que se acerca bastante a lo que haríamos en un entorno profesional real.
+
+Para terminar, creemos que la práctica podría mejorar con un mejor planteamiento. En algunos momentos nos hemos encontrado con instrucciones ambiguas o ligeramente contradictorias en los guiones, lo que ha dificultado el proceso y ha añadido una capa de confusión extra al desarrollo de las tareas.
 
 
 
