@@ -702,13 +702,100 @@ El usuario explora el festival a través del mapa y utiliza los filtros para bus
 
 
 ### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+## ![Método UX](img/usabilityReview.png)
 
+Para documentar los componentes principales del proyecto se ha utilizado **Storybook**, una herramienta que permite visualizar y probar componentes React de forma aislada, sin necesidad de ejecutar toda la aplicación completa.
 
-<br>
+El objetivo de esta tarea es comprobar que los elementos de la interfaz mantienen una apariencia coherente y que pueden reutilizarse correctamente en las distintas páginas del proyecto, como la landing page, la carta, el mapa de colas y la página de reservas.
+
+---
+
+## Componentes documentados
+
+| Componente         | Función principal                      |
+| ------------------ | -------------------------------------- |
+| `Navigation`       | Barra superior de navegación           |
+| `Hero`             | Sección principal de presentación      |
+| `Features`         | Bloque de características del proyecto |
+| `Footer`           | Pie de página                          |
+| `AppLayout`        | Estructura general de la carta         |
+| `FiltersSidebar`   | Panel de filtros del mapa              |
+| `MapView`          | Mapa interactivo de foodtrucks         |
+| `TruckDetails`     | Detalle del foodtruck seleccionado     |
+| `ReservationPage`  | Página principal de reservas           |
+| `MapSection`       | Zona visual de selección de reservas   |
+| `SelectionSection` | Resumen de elementos seleccionados     |
+| `FiltersSection`   | Filtros de reserva                     |
+
+---
+
+## Ejemplo de historia en Storybook
+
+```tsx
+import type { Meta, StoryObj } from "@storybook/react";
+import { Navigation } from "./Navigation";
+
+const meta: Meta<typeof Navigation> = {
+  title: "Landing/Navigation",
+  component: Navigation,
+  tags: ["autodocs"],
+};
+
+export default meta;
+
+type Story = StoryObj<typeof Navigation>;
+
+export const Default: Story = {};
+```
+
+Este ejemplo permite visualizar el componente `Navigation` de forma independiente dentro de Storybook.
+
+---
+
+## Comandos utilizados
+
+Para instalar Storybook en el proyecto:
+
+```bash
+npx storybook@latest init
+```
+
+Para ejecutarlo:
+
+```bash
+npm run storybook
+```
+
+Storybook se abre normalmente en:
+
+```text
+http://localhost:6006
+```
+
+---
+
+## Evidencias
+
+Las evidencias de este paso quedan guardadas en la carpeta `P5/`, incluyendo capturas de los componentes principales visualizados en Storybook.
+
+Ejemplo:
+
+```text
+P5/
+├── storybook-navigation.png
+├── storybook-hero.png
+├── storybook-mapview.png
+├── storybook-filters.png
+└── storybook-reservation.png
+```
+
+---
+
+## Valoración
+
+El uso de Storybook facilita la documentación y revisión de los componentes React del proyecto. Además, ayuda a mantener una interfaz coherente, reutilizable y fácil de mantener, ya que cada componente puede comprobarse de forma aislada antes de integrarse en la aplicación final.
+
 
 ## Conclusión Final y Valoración del Proyecto
 
